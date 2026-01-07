@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+.venv/
+venv/
+ENV/
+.env
+config.env
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+tumbs.db
+.ipynb_checkpoints/
+*.db
+*.sqlite
+
+# Generated files
+artifacts/
+*.log

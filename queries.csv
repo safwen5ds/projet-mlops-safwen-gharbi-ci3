@@ -1,0 +1,1111 @@
+query_id,query_text,item_id,intent,language
+Q00001,Apple MacBook Pro 14-inch (M3),LAP-2023-apple-macbook-pro-14-inch-m3,lookup,en
+Q00002,Apple MacBook Pro 14-inch (M3) 2023,LAP-2023-apple-macbook-pro-14-inch-m3,lookup,en
+Q00003,MacBook Pro 14-inch (M3) Apple,LAP-2023-apple-macbook-pro-14-inch-m3,lookup,en
+Q00004,prix Apple MacBook Pro 14-inch (M3),LAP-2023-apple-macbook-pro-14-inch-m3,lookup,fr
+Q00005,je cherche MacBook Pro 14-inch (M3),LAP-2023-apple-macbook-pro-14-inch-m3,lookup,fr
+Q00006,alternative à MacBook Pro 14-inch (M3),LAP-2023-apple-macbook-pro-14-inch-m3,compare,en
+Q00007,MacBook Pro 14-inch (M3) fiche technique,LAP-2023-apple-macbook-pro-14-inch-m3,lookup,fr
+Q00008,Apple MacBook Pro 14-inch (M3) specs,LAP-2023-apple-macbook-pro-14-inch-m3,lookup,en
+Q00009,best price Apple MacBook Pro 14-inch (M3),LAP-2023-apple-macbook-pro-14-inch-m3,lookup,en
+Q00010,compare Apple MacBook Pro 14-inch (M3),LAP-2023-apple-macbook-pro-14-inch-m3,compare,en
+Q00011,Apple MacBook Pro 16-inch (M3 Pro/M3 Max),LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,lookup,en
+Q00012,Apple MacBook Pro 16-inch (M3 Pro/M3 Max) 2023,LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,lookup,en
+Q00013,MacBook Pro 16-inch (M3 Pro/M3 Max) Apple,LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,lookup,en
+Q00014,prix Apple MacBook Pro 16-inch (M3 Pro/M3 Max),LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,lookup,fr
+Q00015,je cherche MacBook Pro 16-inch (M3 Pro/M3 Max),LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,lookup,fr
+Q00016,alternative à MacBook Pro 16-inch (M3 Pro/M3 Max),LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,compare,en
+Q00017,MacBook Pro 16-inch (M3 Pro/M3 Max) fiche technique,LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,lookup,fr
+Q00018,Apple MacBook Pro 16-inch (M3 Pro/M3 Max) specs,LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,lookup,en
+Q00019,best price Apple MacBook Pro 16-inch (M3 Pro/M3 Max),LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,lookup,en
+Q00020,compare Apple MacBook Pro 16-inch (M3 Pro/M3 Max),LAP-2023-apple-macbook-pro-16-inch-m3-pro-m3-max,compare,en
+Q00021,Apple MacBook Air 15-inch (M2),LAP-2023-apple-macbook-air-15-inch-m2,lookup,en
+Q00022,Apple MacBook Air 15-inch (M2) 2023,LAP-2023-apple-macbook-air-15-inch-m2,lookup,en
+Q00023,MacBook Air 15-inch (M2) Apple,LAP-2023-apple-macbook-air-15-inch-m2,lookup,en
+Q00024,prix Apple MacBook Air 15-inch (M2),LAP-2023-apple-macbook-air-15-inch-m2,lookup,fr
+Q00025,je cherche MacBook Air 15-inch (M2),LAP-2023-apple-macbook-air-15-inch-m2,lookup,fr
+Q00026,alternative à MacBook Air 15-inch (M2),LAP-2023-apple-macbook-air-15-inch-m2,compare,en
+Q00027,MacBook Air 15-inch (M2) fiche technique,LAP-2023-apple-macbook-air-15-inch-m2,lookup,fr
+Q00028,Apple MacBook Air 15-inch (M2) specs,LAP-2023-apple-macbook-air-15-inch-m2,lookup,en
+Q00029,best price Apple MacBook Air 15-inch (M2),LAP-2023-apple-macbook-air-15-inch-m2,lookup,en
+Q00030,compare Apple MacBook Air 15-inch (M2),LAP-2023-apple-macbook-air-15-inch-m2,compare,en
+Q00031,Apple MacBook Air 13-inch (M3),LAP-2024-apple-macbook-air-13-inch-m3,lookup,en
+Q00032,Apple MacBook Air 13-inch (M3) 2024,LAP-2024-apple-macbook-air-13-inch-m3,lookup,en
+Q00033,MacBook Air 13-inch (M3) Apple,LAP-2024-apple-macbook-air-13-inch-m3,lookup,en
+Q00034,prix Apple MacBook Air 13-inch (M3),LAP-2024-apple-macbook-air-13-inch-m3,lookup,fr
+Q00035,je cherche MacBook Air 13-inch (M3),LAP-2024-apple-macbook-air-13-inch-m3,lookup,fr
+Q00036,alternative à MacBook Air 13-inch (M3),LAP-2024-apple-macbook-air-13-inch-m3,compare,en
+Q00037,MacBook Air 13-inch (M3) fiche technique,LAP-2024-apple-macbook-air-13-inch-m3,lookup,fr
+Q00038,Apple MacBook Air 13-inch (M3) specs,LAP-2024-apple-macbook-air-13-inch-m3,lookup,en
+Q00039,best price Apple MacBook Air 13-inch (M3),LAP-2024-apple-macbook-air-13-inch-m3,lookup,en
+Q00040,compare Apple MacBook Air 13-inch (M3),LAP-2024-apple-macbook-air-13-inch-m3,compare,en
+Q00041,Apple MacBook Air 15-inch (M3),LAP-2024-apple-macbook-air-15-inch-m3,lookup,en
+Q00042,Apple MacBook Air 15-inch (M3) 2024,LAP-2024-apple-macbook-air-15-inch-m3,lookup,en
+Q00043,MacBook Air 15-inch (M3) Apple,LAP-2024-apple-macbook-air-15-inch-m3,lookup,en
+Q00044,prix Apple MacBook Air 15-inch (M3),LAP-2024-apple-macbook-air-15-inch-m3,lookup,fr
+Q00045,je cherche MacBook Air 15-inch (M3),LAP-2024-apple-macbook-air-15-inch-m3,lookup,fr
+Q00046,alternative à MacBook Air 15-inch (M3),LAP-2024-apple-macbook-air-15-inch-m3,compare,en
+Q00047,MacBook Air 15-inch (M3) fiche technique,LAP-2024-apple-macbook-air-15-inch-m3,lookup,fr
+Q00048,Apple MacBook Air 15-inch (M3) specs,LAP-2024-apple-macbook-air-15-inch-m3,lookup,en
+Q00049,best price Apple MacBook Air 15-inch (M3),LAP-2024-apple-macbook-air-15-inch-m3,lookup,en
+Q00050,compare Apple MacBook Air 15-inch (M3),LAP-2024-apple-macbook-air-15-inch-m3,compare,en
+Q00051,Dell XPS 13 (2024),LAP-2024-dell-xps-13-2024,lookup,en
+Q00052,Dell XPS 13 (2024) 2024,LAP-2024-dell-xps-13-2024,lookup,en
+Q00053,XPS 13 (2024) Dell,LAP-2024-dell-xps-13-2024,lookup,en
+Q00054,prix Dell XPS 13 (2024),LAP-2024-dell-xps-13-2024,lookup,fr
+Q00055,je cherche XPS 13 (2024),LAP-2024-dell-xps-13-2024,lookup,fr
+Q00056,alternative à XPS 13 (2024),LAP-2024-dell-xps-13-2024,compare,en
+Q00057,XPS 13 (2024) fiche technique,LAP-2024-dell-xps-13-2024,lookup,fr
+Q00058,Dell XPS 13 (2024) specs,LAP-2024-dell-xps-13-2024,lookup,en
+Q00059,best price Dell XPS 13 (2024),LAP-2024-dell-xps-13-2024,lookup,en
+Q00060,compare Dell XPS 13 (2024),LAP-2024-dell-xps-13-2024,compare,en
+Q00061,Dell XPS 14 (9440),LAP-2024-dell-xps-14-9440,lookup,en
+Q00062,Dell XPS 14 (9440) 2024,LAP-2024-dell-xps-14-9440,lookup,en
+Q00063,XPS 14 (9440) Dell,LAP-2024-dell-xps-14-9440,lookup,en
+Q00064,prix Dell XPS 14 (9440),LAP-2024-dell-xps-14-9440,lookup,fr
+Q00065,je cherche XPS 14 (9440),LAP-2024-dell-xps-14-9440,lookup,fr
+Q00066,alternative à XPS 14 (9440),LAP-2024-dell-xps-14-9440,compare,en
+Q00067,XPS 14 (9440) fiche technique,LAP-2024-dell-xps-14-9440,lookup,fr
+Q00068,Dell XPS 14 (9440) specs,LAP-2024-dell-xps-14-9440,lookup,en
+Q00069,best price Dell XPS 14 (9440),LAP-2024-dell-xps-14-9440,lookup,en
+Q00070,compare Dell XPS 14 (9440),LAP-2024-dell-xps-14-9440,compare,en
+Q00071,Dell XPS 16 (9640),LAP-2024-dell-xps-16-9640,lookup,en
+Q00072,Dell XPS 16 (9640) 2024,LAP-2024-dell-xps-16-9640,lookup,en
+Q00073,XPS 16 (9640) Dell,LAP-2024-dell-xps-16-9640,lookup,en
+Q00074,prix Dell XPS 16 (9640),LAP-2024-dell-xps-16-9640,lookup,fr
+Q00075,je cherche XPS 16 (9640),LAP-2024-dell-xps-16-9640,lookup,fr
+Q00076,alternative à XPS 16 (9640),LAP-2024-dell-xps-16-9640,compare,en
+Q00077,XPS 16 (9640) fiche technique,LAP-2024-dell-xps-16-9640,lookup,fr
+Q00078,Dell XPS 16 (9640) specs,LAP-2024-dell-xps-16-9640,lookup,en
+Q00079,best price Dell XPS 16 (9640),LAP-2024-dell-xps-16-9640,lookup,en
+Q00080,compare Dell XPS 16 (9640),LAP-2024-dell-xps-16-9640,compare,en
+Q00081,"Lenovo Yoga 9i 2-in-1 (14, 2024)",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,lookup,en
+Q00082,"Lenovo Yoga 9i 2-in-1 (14, 2024) 2024",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,lookup,en
+Q00083,"Yoga 9i 2-in-1 (14, 2024) Lenovo",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,lookup,en
+Q00084,"prix Lenovo Yoga 9i 2-in-1 (14, 2024)",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,lookup,fr
+Q00085,"je cherche Yoga 9i 2-in-1 (14, 2024)",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,lookup,fr
+Q00086,"alternative à Yoga 9i 2-in-1 (14, 2024)",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,compare,en
+Q00087,"Yoga 9i 2-in-1 (14, 2024) fiche technique",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,lookup,fr
+Q00088,"Lenovo Yoga 9i 2-in-1 (14, 2024) specs",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,lookup,en
+Q00089,"best price Lenovo Yoga 9i 2-in-1 (14, 2024)",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,lookup,en
+Q00090,"compare Lenovo Yoga 9i 2-in-1 (14, 2024)",LAP-2024-lenovo-yoga-9i-2-in-1-14-2024,compare,en
+Q00091,Lenovo Yoga Pro 9i (2024),LAP-2024-lenovo-yoga-pro-9i-2024,lookup,en
+Q00092,Lenovo Yoga Pro 9i (2024) 2024,LAP-2024-lenovo-yoga-pro-9i-2024,lookup,en
+Q00093,Yoga Pro 9i (2024) Lenovo,LAP-2024-lenovo-yoga-pro-9i-2024,lookup,en
+Q00094,prix Lenovo Yoga Pro 9i (2024),LAP-2024-lenovo-yoga-pro-9i-2024,lookup,fr
+Q00095,je cherche Yoga Pro 9i (2024),LAP-2024-lenovo-yoga-pro-9i-2024,lookup,fr
+Q00096,alternative à Yoga Pro 9i (2024),LAP-2024-lenovo-yoga-pro-9i-2024,compare,en
+Q00097,Yoga Pro 9i (2024) fiche technique,LAP-2024-lenovo-yoga-pro-9i-2024,lookup,fr
+Q00098,Lenovo Yoga Pro 9i (2024) specs,LAP-2024-lenovo-yoga-pro-9i-2024,lookup,en
+Q00099,best price Lenovo Yoga Pro 9i (2024),LAP-2024-lenovo-yoga-pro-9i-2024,lookup,en
+Q00100,compare Lenovo Yoga Pro 9i (2024),LAP-2024-lenovo-yoga-pro-9i-2024,compare,en
+Q00101,Lenovo ThinkPad X1 Carbon Gen 12,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,lookup,en
+Q00102,Lenovo ThinkPad X1 Carbon Gen 12 2024,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,lookup,en
+Q00103,ThinkPad X1 Carbon Gen 12 Lenovo,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,lookup,en
+Q00104,prix Lenovo ThinkPad X1 Carbon Gen 12,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,lookup,fr
+Q00105,je cherche ThinkPad X1 Carbon Gen 12,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,lookup,fr
+Q00106,alternative à ThinkPad X1 Carbon Gen 12,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,compare,en
+Q00107,ThinkPad X1 Carbon Gen 12 fiche technique,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,lookup,fr
+Q00108,Lenovo ThinkPad X1 Carbon Gen 12 specs,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,lookup,en
+Q00109,best price Lenovo ThinkPad X1 Carbon Gen 12,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,lookup,en
+Q00110,compare Lenovo ThinkPad X1 Carbon Gen 12,LAP-2024-lenovo-thinkpad-x1-carbon-gen-12,compare,en
+Q00111,ASUS ROG Zephyrus G14 (2024),LAP-2024-asus-rog-zephyrus-g14-2024,lookup,en
+Q00112,ASUS ROG Zephyrus G14 (2024) 2024,LAP-2024-asus-rog-zephyrus-g14-2024,lookup,en
+Q00113,ROG Zephyrus G14 (2024) ASUS,LAP-2024-asus-rog-zephyrus-g14-2024,lookup,en
+Q00114,prix ASUS ROG Zephyrus G14 (2024),LAP-2024-asus-rog-zephyrus-g14-2024,lookup,fr
+Q00115,je cherche ROG Zephyrus G14 (2024),LAP-2024-asus-rog-zephyrus-g14-2024,lookup,fr
+Q00116,alternative à ROG Zephyrus G14 (2024),LAP-2024-asus-rog-zephyrus-g14-2024,compare,en
+Q00117,ROG Zephyrus G14 (2024) fiche technique,LAP-2024-asus-rog-zephyrus-g14-2024,lookup,fr
+Q00118,ASUS ROG Zephyrus G14 (2024) specs,LAP-2024-asus-rog-zephyrus-g14-2024,lookup,en
+Q00119,best price ASUS ROG Zephyrus G14 (2024),LAP-2024-asus-rog-zephyrus-g14-2024,lookup,en
+Q00120,compare ASUS ROG Zephyrus G14 (2024),LAP-2024-asus-rog-zephyrus-g14-2024,compare,en
+Q00121,Framework Laptop 16 (initial release),LAP-2024-framework-laptop-16-initial-release,lookup,en
+Q00122,Framework Laptop 16 (initial release) 2024,LAP-2024-framework-laptop-16-initial-release,lookup,en
+Q00123,Laptop 16 (initial release) Framework,LAP-2024-framework-laptop-16-initial-release,lookup,en
+Q00124,prix Framework Laptop 16 (initial release),LAP-2024-framework-laptop-16-initial-release,lookup,fr
+Q00125,je cherche Laptop 16 (initial release),LAP-2024-framework-laptop-16-initial-release,lookup,fr
+Q00126,alternative à Laptop 16 (initial release),LAP-2024-framework-laptop-16-initial-release,compare,en
+Q00127,Laptop 16 (initial release) fiche technique,LAP-2024-framework-laptop-16-initial-release,lookup,fr
+Q00128,Framework Laptop 16 (initial release) specs,LAP-2024-framework-laptop-16-initial-release,lookup,en
+Q00129,best price Framework Laptop 16 (initial release),LAP-2024-framework-laptop-16-initial-release,lookup,en
+Q00130,compare Framework Laptop 16 (initial release),LAP-2024-framework-laptop-16-initial-release,compare,en
+Q00131,Apple MacBook Air 13-inch (M4),LAP-2025-apple-macbook-air-13-inch-m4,lookup,en
+Q00132,Apple MacBook Air 13-inch (M4) 2025,LAP-2025-apple-macbook-air-13-inch-m4,lookup,en
+Q00133,MacBook Air 13-inch (M4) Apple,LAP-2025-apple-macbook-air-13-inch-m4,lookup,en
+Q00134,prix Apple MacBook Air 13-inch (M4),LAP-2025-apple-macbook-air-13-inch-m4,lookup,fr
+Q00135,je cherche MacBook Air 13-inch (M4),LAP-2025-apple-macbook-air-13-inch-m4,lookup,fr
+Q00136,alternative à MacBook Air 13-inch (M4),LAP-2025-apple-macbook-air-13-inch-m4,compare,en
+Q00137,MacBook Air 13-inch (M4) fiche technique,LAP-2025-apple-macbook-air-13-inch-m4,lookup,fr
+Q00138,Apple MacBook Air 13-inch (M4) specs,LAP-2025-apple-macbook-air-13-inch-m4,lookup,en
+Q00139,best price Apple MacBook Air 13-inch (M4),LAP-2025-apple-macbook-air-13-inch-m4,lookup,en
+Q00140,compare Apple MacBook Air 13-inch (M4),LAP-2025-apple-macbook-air-13-inch-m4,compare,en
+Q00141,Apple MacBook Air 15-inch (M4),LAP-2025-apple-macbook-air-15-inch-m4,lookup,en
+Q00142,Apple MacBook Air 15-inch (M4) 2025,LAP-2025-apple-macbook-air-15-inch-m4,lookup,en
+Q00143,MacBook Air 15-inch (M4) Apple,LAP-2025-apple-macbook-air-15-inch-m4,lookup,en
+Q00144,prix Apple MacBook Air 15-inch (M4),LAP-2025-apple-macbook-air-15-inch-m4,lookup,fr
+Q00145,je cherche MacBook Air 15-inch (M4),LAP-2025-apple-macbook-air-15-inch-m4,lookup,fr
+Q00146,alternative à MacBook Air 15-inch (M4),LAP-2025-apple-macbook-air-15-inch-m4,compare,en
+Q00147,MacBook Air 15-inch (M4) fiche technique,LAP-2025-apple-macbook-air-15-inch-m4,lookup,fr
+Q00148,Apple MacBook Air 15-inch (M4) specs,LAP-2025-apple-macbook-air-15-inch-m4,lookup,en
+Q00149,best price Apple MacBook Air 15-inch (M4),LAP-2025-apple-macbook-air-15-inch-m4,lookup,en
+Q00150,compare Apple MacBook Air 15-inch (M4),LAP-2025-apple-macbook-air-15-inch-m4,compare,en
+Q00151,Framework Laptop 16 (2025 refresh),LAP-2025-framework-laptop-16-2025-refresh,lookup,en
+Q00152,Framework Laptop 16 (2025 refresh) 2025,LAP-2025-framework-laptop-16-2025-refresh,lookup,en
+Q00153,Laptop 16 (2025 refresh) Framework,LAP-2025-framework-laptop-16-2025-refresh,lookup,en
+Q00154,prix Framework Laptop 16 (2025 refresh),LAP-2025-framework-laptop-16-2025-refresh,lookup,fr
+Q00155,je cherche Laptop 16 (2025 refresh),LAP-2025-framework-laptop-16-2025-refresh,lookup,fr
+Q00156,alternative à Laptop 16 (2025 refresh),LAP-2025-framework-laptop-16-2025-refresh,compare,en
+Q00157,Laptop 16 (2025 refresh) fiche technique,LAP-2025-framework-laptop-16-2025-refresh,lookup,fr
+Q00158,Framework Laptop 16 (2025 refresh) specs,LAP-2025-framework-laptop-16-2025-refresh,lookup,en
+Q00159,best price Framework Laptop 16 (2025 refresh),LAP-2025-framework-laptop-16-2025-refresh,lookup,en
+Q00160,compare Framework Laptop 16 (2025 refresh),LAP-2025-framework-laptop-16-2025-refresh,compare,en
+Q00161,Apple iPhone 15,PHO-2023-apple-iphone-15,lookup,en
+Q00162,Apple iPhone 15 2023,PHO-2023-apple-iphone-15,lookup,en
+Q00163,iPhone 15 Apple,PHO-2023-apple-iphone-15,lookup,en
+Q00164,prix Apple iPhone 15,PHO-2023-apple-iphone-15,lookup,fr
+Q00165,je cherche iPhone 15,PHO-2023-apple-iphone-15,lookup,fr
+Q00166,alternative à iPhone 15,PHO-2023-apple-iphone-15,compare,en
+Q00167,iPhone 15 fiche technique,PHO-2023-apple-iphone-15,lookup,fr
+Q00168,Apple iPhone 15 specs,PHO-2023-apple-iphone-15,lookup,en
+Q00169,best price Apple iPhone 15,PHO-2023-apple-iphone-15,lookup,en
+Q00170,compare Apple iPhone 15,PHO-2023-apple-iphone-15,compare,en
+Q00171,Apple iPhone 15 Plus,PHO-2023-apple-iphone-15-plus,lookup,en
+Q00172,Apple iPhone 15 Plus 2023,PHO-2023-apple-iphone-15-plus,lookup,en
+Q00173,iPhone 15 Plus Apple,PHO-2023-apple-iphone-15-plus,lookup,en
+Q00174,prix Apple iPhone 15 Plus,PHO-2023-apple-iphone-15-plus,lookup,fr
+Q00175,je cherche iPhone 15 Plus,PHO-2023-apple-iphone-15-plus,lookup,fr
+Q00176,alternative à iPhone 15 Plus,PHO-2023-apple-iphone-15-plus,compare,en
+Q00177,iPhone 15 Plus fiche technique,PHO-2023-apple-iphone-15-plus,lookup,fr
+Q00178,Apple iPhone 15 Plus specs,PHO-2023-apple-iphone-15-plus,lookup,en
+Q00179,best price Apple iPhone 15 Plus,PHO-2023-apple-iphone-15-plus,lookup,en
+Q00180,compare Apple iPhone 15 Plus,PHO-2023-apple-iphone-15-plus,compare,en
+Q00181,Apple iPhone 15 Pro,PHO-2023-apple-iphone-15-pro,lookup,en
+Q00182,Apple iPhone 15 Pro 2023,PHO-2023-apple-iphone-15-pro,lookup,en
+Q00183,iPhone 15 Pro Apple,PHO-2023-apple-iphone-15-pro,lookup,en
+Q00184,prix Apple iPhone 15 Pro,PHO-2023-apple-iphone-15-pro,lookup,fr
+Q00185,je cherche iPhone 15 Pro,PHO-2023-apple-iphone-15-pro,lookup,fr
+Q00186,alternative à iPhone 15 Pro,PHO-2023-apple-iphone-15-pro,compare,en
+Q00187,iPhone 15 Pro fiche technique,PHO-2023-apple-iphone-15-pro,lookup,fr
+Q00188,Apple iPhone 15 Pro specs,PHO-2023-apple-iphone-15-pro,lookup,en
+Q00189,best price Apple iPhone 15 Pro,PHO-2023-apple-iphone-15-pro,lookup,en
+Q00190,compare Apple iPhone 15 Pro,PHO-2023-apple-iphone-15-pro,compare,en
+Q00191,Apple iPhone 15 Pro Max,PHO-2023-apple-iphone-15-pro-max,lookup,en
+Q00192,Apple iPhone 15 Pro Max 2023,PHO-2023-apple-iphone-15-pro-max,lookup,en
+Q00193,iPhone 15 Pro Max Apple,PHO-2023-apple-iphone-15-pro-max,lookup,en
+Q00194,prix Apple iPhone 15 Pro Max,PHO-2023-apple-iphone-15-pro-max,lookup,fr
+Q00195,je cherche iPhone 15 Pro Max,PHO-2023-apple-iphone-15-pro-max,lookup,fr
+Q00196,alternative à iPhone 15 Pro Max,PHO-2023-apple-iphone-15-pro-max,compare,en
+Q00197,iPhone 15 Pro Max fiche technique,PHO-2023-apple-iphone-15-pro-max,lookup,fr
+Q00198,Apple iPhone 15 Pro Max specs,PHO-2023-apple-iphone-15-pro-max,lookup,en
+Q00199,best price Apple iPhone 15 Pro Max,PHO-2023-apple-iphone-15-pro-max,lookup,en
+Q00200,compare Apple iPhone 15 Pro Max,PHO-2023-apple-iphone-15-pro-max,compare,en
+Q00201,Apple iPhone 16,PHO-2024-apple-iphone-16,lookup,en
+Q00202,Apple iPhone 16 2024,PHO-2024-apple-iphone-16,lookup,en
+Q00203,iPhone 16 Apple,PHO-2024-apple-iphone-16,lookup,en
+Q00204,prix Apple iPhone 16,PHO-2024-apple-iphone-16,lookup,fr
+Q00205,je cherche iPhone 16,PHO-2024-apple-iphone-16,lookup,fr
+Q00206,alternative à iPhone 16,PHO-2024-apple-iphone-16,compare,en
+Q00207,iPhone 16 fiche technique,PHO-2024-apple-iphone-16,lookup,fr
+Q00208,Apple iPhone 16 specs,PHO-2024-apple-iphone-16,lookup,en
+Q00209,best price Apple iPhone 16,PHO-2024-apple-iphone-16,lookup,en
+Q00210,compare Apple iPhone 16,PHO-2024-apple-iphone-16,compare,en
+Q00211,Apple iPhone 16 Plus,PHO-2024-apple-iphone-16-plus,lookup,en
+Q00212,Apple iPhone 16 Plus 2024,PHO-2024-apple-iphone-16-plus,lookup,en
+Q00213,iPhone 16 Plus Apple,PHO-2024-apple-iphone-16-plus,lookup,en
+Q00214,prix Apple iPhone 16 Plus,PHO-2024-apple-iphone-16-plus,lookup,fr
+Q00215,je cherche iPhone 16 Plus,PHO-2024-apple-iphone-16-plus,lookup,fr
+Q00216,alternative à iPhone 16 Plus,PHO-2024-apple-iphone-16-plus,compare,en
+Q00217,iPhone 16 Plus fiche technique,PHO-2024-apple-iphone-16-plus,lookup,fr
+Q00218,Apple iPhone 16 Plus specs,PHO-2024-apple-iphone-16-plus,lookup,en
+Q00219,best price Apple iPhone 16 Plus,PHO-2024-apple-iphone-16-plus,lookup,en
+Q00220,compare Apple iPhone 16 Plus,PHO-2024-apple-iphone-16-plus,compare,en
+Q00221,Apple iPhone 16 Pro,PHO-2024-apple-iphone-16-pro,lookup,en
+Q00222,Apple iPhone 16 Pro 2024,PHO-2024-apple-iphone-16-pro,lookup,en
+Q00223,iPhone 16 Pro Apple,PHO-2024-apple-iphone-16-pro,lookup,en
+Q00224,prix Apple iPhone 16 Pro,PHO-2024-apple-iphone-16-pro,lookup,fr
+Q00225,je cherche iPhone 16 Pro,PHO-2024-apple-iphone-16-pro,lookup,fr
+Q00226,alternative à iPhone 16 Pro,PHO-2024-apple-iphone-16-pro,compare,en
+Q00227,iPhone 16 Pro fiche technique,PHO-2024-apple-iphone-16-pro,lookup,fr
+Q00228,Apple iPhone 16 Pro specs,PHO-2024-apple-iphone-16-pro,lookup,en
+Q00229,best price Apple iPhone 16 Pro,PHO-2024-apple-iphone-16-pro,lookup,en
+Q00230,compare Apple iPhone 16 Pro,PHO-2024-apple-iphone-16-pro,compare,en
+Q00231,Apple iPhone 16 Pro Max,PHO-2024-apple-iphone-16-pro-max,lookup,en
+Q00232,Apple iPhone 16 Pro Max 2024,PHO-2024-apple-iphone-16-pro-max,lookup,en
+Q00233,iPhone 16 Pro Max Apple,PHO-2024-apple-iphone-16-pro-max,lookup,en
+Q00234,prix Apple iPhone 16 Pro Max,PHO-2024-apple-iphone-16-pro-max,lookup,fr
+Q00235,je cherche iPhone 16 Pro Max,PHO-2024-apple-iphone-16-pro-max,lookup,fr
+Q00236,alternative à iPhone 16 Pro Max,PHO-2024-apple-iphone-16-pro-max,compare,en
+Q00237,iPhone 16 Pro Max fiche technique,PHO-2024-apple-iphone-16-pro-max,lookup,fr
+Q00238,Apple iPhone 16 Pro Max specs,PHO-2024-apple-iphone-16-pro-max,lookup,en
+Q00239,best price Apple iPhone 16 Pro Max,PHO-2024-apple-iphone-16-pro-max,lookup,en
+Q00240,compare Apple iPhone 16 Pro Max,PHO-2024-apple-iphone-16-pro-max,compare,en
+Q00241,Apple iPhone 17,PHO-2025-apple-iphone-17,lookup,en
+Q00242,Apple iPhone 17 2025,PHO-2025-apple-iphone-17,lookup,en
+Q00243,iPhone 17 Apple,PHO-2025-apple-iphone-17,lookup,en
+Q00244,prix Apple iPhone 17,PHO-2025-apple-iphone-17,lookup,fr
+Q00245,je cherche iPhone 17,PHO-2025-apple-iphone-17,lookup,fr
+Q00246,alternative à iPhone 17,PHO-2025-apple-iphone-17,compare,en
+Q00247,iPhone 17 fiche technique,PHO-2025-apple-iphone-17,lookup,fr
+Q00248,Apple iPhone 17 specs,PHO-2025-apple-iphone-17,lookup,en
+Q00249,best price Apple iPhone 17,PHO-2025-apple-iphone-17,lookup,en
+Q00250,compare Apple iPhone 17,PHO-2025-apple-iphone-17,compare,en
+Q00251,Apple iPhone 17 Plus,PHO-2025-apple-iphone-17-plus,lookup,en
+Q00252,Apple iPhone 17 Plus 2025,PHO-2025-apple-iphone-17-plus,lookup,en
+Q00253,iPhone 17 Plus Apple,PHO-2025-apple-iphone-17-plus,lookup,en
+Q00254,prix Apple iPhone 17 Plus,PHO-2025-apple-iphone-17-plus,lookup,fr
+Q00255,je cherche iPhone 17 Plus,PHO-2025-apple-iphone-17-plus,lookup,fr
+Q00256,alternative à iPhone 17 Plus,PHO-2025-apple-iphone-17-plus,compare,en
+Q00257,iPhone 17 Plus fiche technique,PHO-2025-apple-iphone-17-plus,lookup,fr
+Q00258,Apple iPhone 17 Plus specs,PHO-2025-apple-iphone-17-plus,lookup,en
+Q00259,best price Apple iPhone 17 Plus,PHO-2025-apple-iphone-17-plus,lookup,en
+Q00260,compare Apple iPhone 17 Plus,PHO-2025-apple-iphone-17-plus,compare,en
+Q00261,Apple iPhone 17 Pro,PHO-2025-apple-iphone-17-pro,lookup,en
+Q00262,Apple iPhone 17 Pro 2025,PHO-2025-apple-iphone-17-pro,lookup,en
+Q00263,iPhone 17 Pro Apple,PHO-2025-apple-iphone-17-pro,lookup,en
+Q00264,prix Apple iPhone 17 Pro,PHO-2025-apple-iphone-17-pro,lookup,fr
+Q00265,je cherche iPhone 17 Pro,PHO-2025-apple-iphone-17-pro,lookup,fr
+Q00266,alternative à iPhone 17 Pro,PHO-2025-apple-iphone-17-pro,compare,en
+Q00267,iPhone 17 Pro fiche technique,PHO-2025-apple-iphone-17-pro,lookup,fr
+Q00268,Apple iPhone 17 Pro specs,PHO-2025-apple-iphone-17-pro,lookup,en
+Q00269,best price Apple iPhone 17 Pro,PHO-2025-apple-iphone-17-pro,lookup,en
+Q00270,compare Apple iPhone 17 Pro,PHO-2025-apple-iphone-17-pro,compare,en
+Q00271,Apple iPhone 17 Pro Max,PHO-2025-apple-iphone-17-pro-max,lookup,en
+Q00272,Apple iPhone 17 Pro Max 2025,PHO-2025-apple-iphone-17-pro-max,lookup,en
+Q00273,iPhone 17 Pro Max Apple,PHO-2025-apple-iphone-17-pro-max,lookup,en
+Q00274,prix Apple iPhone 17 Pro Max,PHO-2025-apple-iphone-17-pro-max,lookup,fr
+Q00275,je cherche iPhone 17 Pro Max,PHO-2025-apple-iphone-17-pro-max,lookup,fr
+Q00276,alternative à iPhone 17 Pro Max,PHO-2025-apple-iphone-17-pro-max,compare,en
+Q00277,iPhone 17 Pro Max fiche technique,PHO-2025-apple-iphone-17-pro-max,lookup,fr
+Q00278,Apple iPhone 17 Pro Max specs,PHO-2025-apple-iphone-17-pro-max,lookup,en
+Q00279,best price Apple iPhone 17 Pro Max,PHO-2025-apple-iphone-17-pro-max,lookup,en
+Q00280,compare Apple iPhone 17 Pro Max,PHO-2025-apple-iphone-17-pro-max,compare,en
+Q00281,Samsung Galaxy S23,PHO-2023-samsung-galaxy-s23,lookup,en
+Q00282,Samsung Galaxy S23 2023,PHO-2023-samsung-galaxy-s23,lookup,en
+Q00283,Galaxy S23 Samsung,PHO-2023-samsung-galaxy-s23,lookup,en
+Q00284,prix Samsung Galaxy S23,PHO-2023-samsung-galaxy-s23,lookup,fr
+Q00285,je cherche Galaxy S23,PHO-2023-samsung-galaxy-s23,lookup,fr
+Q00286,alternative à Galaxy S23,PHO-2023-samsung-galaxy-s23,compare,en
+Q00287,Galaxy S23 fiche technique,PHO-2023-samsung-galaxy-s23,lookup,fr
+Q00288,Samsung Galaxy S23 specs,PHO-2023-samsung-galaxy-s23,lookup,en
+Q00289,best price Samsung Galaxy S23,PHO-2023-samsung-galaxy-s23,lookup,en
+Q00290,compare Samsung Galaxy S23,PHO-2023-samsung-galaxy-s23,compare,en
+Q00291,Samsung Galaxy S23 Ultra,PHO-2023-samsung-galaxy-s23-ultra,lookup,en
+Q00292,Samsung Galaxy S23 Ultra 2023,PHO-2023-samsung-galaxy-s23-ultra,lookup,en
+Q00293,Galaxy S23 Ultra Samsung,PHO-2023-samsung-galaxy-s23-ultra,lookup,en
+Q00294,prix Samsung Galaxy S23 Ultra,PHO-2023-samsung-galaxy-s23-ultra,lookup,fr
+Q00295,je cherche Galaxy S23 Ultra,PHO-2023-samsung-galaxy-s23-ultra,lookup,fr
+Q00296,alternative à Galaxy S23 Ultra,PHO-2023-samsung-galaxy-s23-ultra,compare,en
+Q00297,Galaxy S23 Ultra fiche technique,PHO-2023-samsung-galaxy-s23-ultra,lookup,fr
+Q00298,Samsung Galaxy S23 Ultra specs,PHO-2023-samsung-galaxy-s23-ultra,lookup,en
+Q00299,best price Samsung Galaxy S23 Ultra,PHO-2023-samsung-galaxy-s23-ultra,lookup,en
+Q00300,compare Samsung Galaxy S23 Ultra,PHO-2023-samsung-galaxy-s23-ultra,compare,en
+Q00301,Samsung Galaxy S24,PHO-2024-samsung-galaxy-s24,lookup,en
+Q00302,Samsung Galaxy S24 2024,PHO-2024-samsung-galaxy-s24,lookup,en
+Q00303,Galaxy S24 Samsung,PHO-2024-samsung-galaxy-s24,lookup,en
+Q00304,prix Samsung Galaxy S24,PHO-2024-samsung-galaxy-s24,lookup,fr
+Q00305,je cherche Galaxy S24,PHO-2024-samsung-galaxy-s24,lookup,fr
+Q00306,alternative à Galaxy S24,PHO-2024-samsung-galaxy-s24,compare,en
+Q00307,Galaxy S24 fiche technique,PHO-2024-samsung-galaxy-s24,lookup,fr
+Q00308,Samsung Galaxy S24 specs,PHO-2024-samsung-galaxy-s24,lookup,en
+Q00309,best price Samsung Galaxy S24,PHO-2024-samsung-galaxy-s24,lookup,en
+Q00310,compare Samsung Galaxy S24,PHO-2024-samsung-galaxy-s24,compare,en
+Q00311,Samsung Galaxy S24 Ultra,PHO-2024-samsung-galaxy-s24-ultra,lookup,en
+Q00312,Samsung Galaxy S24 Ultra 2024,PHO-2024-samsung-galaxy-s24-ultra,lookup,en
+Q00313,Galaxy S24 Ultra Samsung,PHO-2024-samsung-galaxy-s24-ultra,lookup,en
+Q00314,prix Samsung Galaxy S24 Ultra,PHO-2024-samsung-galaxy-s24-ultra,lookup,fr
+Q00315,je cherche Galaxy S24 Ultra,PHO-2024-samsung-galaxy-s24-ultra,lookup,fr
+Q00316,alternative à Galaxy S24 Ultra,PHO-2024-samsung-galaxy-s24-ultra,compare,en
+Q00317,Galaxy S24 Ultra fiche technique,PHO-2024-samsung-galaxy-s24-ultra,lookup,fr
+Q00318,Samsung Galaxy S24 Ultra specs,PHO-2024-samsung-galaxy-s24-ultra,lookup,en
+Q00319,best price Samsung Galaxy S24 Ultra,PHO-2024-samsung-galaxy-s24-ultra,lookup,en
+Q00320,compare Samsung Galaxy S24 Ultra,PHO-2024-samsung-galaxy-s24-ultra,compare,en
+Q00321,Samsung Galaxy S25,PHO-2025-samsung-galaxy-s25,lookup,en
+Q00322,Samsung Galaxy S25 2025,PHO-2025-samsung-galaxy-s25,lookup,en
+Q00323,Galaxy S25 Samsung,PHO-2025-samsung-galaxy-s25,lookup,en
+Q00324,prix Samsung Galaxy S25,PHO-2025-samsung-galaxy-s25,lookup,fr
+Q00325,je cherche Galaxy S25,PHO-2025-samsung-galaxy-s25,lookup,fr
+Q00326,alternative à Galaxy S25,PHO-2025-samsung-galaxy-s25,compare,en
+Q00327,Galaxy S25 fiche technique,PHO-2025-samsung-galaxy-s25,lookup,fr
+Q00328,Samsung Galaxy S25 specs,PHO-2025-samsung-galaxy-s25,lookup,en
+Q00329,best price Samsung Galaxy S25,PHO-2025-samsung-galaxy-s25,lookup,en
+Q00330,compare Samsung Galaxy S25,PHO-2025-samsung-galaxy-s25,compare,en
+Q00331,Samsung Galaxy S25 Ultra,PHO-2025-samsung-galaxy-s25-ultra,lookup,en
+Q00332,Samsung Galaxy S25 Ultra 2025,PHO-2025-samsung-galaxy-s25-ultra,lookup,en
+Q00333,Galaxy S25 Ultra Samsung,PHO-2025-samsung-galaxy-s25-ultra,lookup,en
+Q00334,prix Samsung Galaxy S25 Ultra,PHO-2025-samsung-galaxy-s25-ultra,lookup,fr
+Q00335,je cherche Galaxy S25 Ultra,PHO-2025-samsung-galaxy-s25-ultra,lookup,fr
+Q00336,alternative à Galaxy S25 Ultra,PHO-2025-samsung-galaxy-s25-ultra,compare,en
+Q00337,Galaxy S25 Ultra fiche technique,PHO-2025-samsung-galaxy-s25-ultra,lookup,fr
+Q00338,Samsung Galaxy S25 Ultra specs,PHO-2025-samsung-galaxy-s25-ultra,lookup,en
+Q00339,best price Samsung Galaxy S25 Ultra,PHO-2025-samsung-galaxy-s25-ultra,lookup,en
+Q00340,compare Samsung Galaxy S25 Ultra,PHO-2025-samsung-galaxy-s25-ultra,compare,en
+Q00341,Google Pixel 8,PHO-2023-google-pixel-8,lookup,en
+Q00342,Google Pixel 8 2023,PHO-2023-google-pixel-8,lookup,en
+Q00343,Pixel 8 Google,PHO-2023-google-pixel-8,lookup,en
+Q00344,prix Google Pixel 8,PHO-2023-google-pixel-8,lookup,fr
+Q00345,je cherche Pixel 8,PHO-2023-google-pixel-8,lookup,fr
+Q00346,alternative à Pixel 8,PHO-2023-google-pixel-8,compare,en
+Q00347,Pixel 8 fiche technique,PHO-2023-google-pixel-8,lookup,fr
+Q00348,Google Pixel 8 specs,PHO-2023-google-pixel-8,lookup,en
+Q00349,best price Google Pixel 8,PHO-2023-google-pixel-8,lookup,en
+Q00350,compare Google Pixel 8,PHO-2023-google-pixel-8,compare,en
+Q00351,Google Pixel 8 Pro,PHO-2023-google-pixel-8-pro,lookup,en
+Q00352,Google Pixel 8 Pro 2023,PHO-2023-google-pixel-8-pro,lookup,en
+Q00353,Pixel 8 Pro Google,PHO-2023-google-pixel-8-pro,lookup,en
+Q00354,prix Google Pixel 8 Pro,PHO-2023-google-pixel-8-pro,lookup,fr
+Q00355,je cherche Pixel 8 Pro,PHO-2023-google-pixel-8-pro,lookup,fr
+Q00356,alternative à Pixel 8 Pro,PHO-2023-google-pixel-8-pro,compare,en
+Q00357,Pixel 8 Pro fiche technique,PHO-2023-google-pixel-8-pro,lookup,fr
+Q00358,Google Pixel 8 Pro specs,PHO-2023-google-pixel-8-pro,lookup,en
+Q00359,best price Google Pixel 8 Pro,PHO-2023-google-pixel-8-pro,lookup,en
+Q00360,compare Google Pixel 8 Pro,PHO-2023-google-pixel-8-pro,compare,en
+Q00361,Google Pixel 9,PHO-2024-google-pixel-9,lookup,en
+Q00362,Google Pixel 9 2024,PHO-2024-google-pixel-9,lookup,en
+Q00363,Pixel 9 Google,PHO-2024-google-pixel-9,lookup,en
+Q00364,prix Google Pixel 9,PHO-2024-google-pixel-9,lookup,fr
+Q00365,je cherche Pixel 9,PHO-2024-google-pixel-9,lookup,fr
+Q00366,alternative à Pixel 9,PHO-2024-google-pixel-9,compare,en
+Q00367,Pixel 9 fiche technique,PHO-2024-google-pixel-9,lookup,fr
+Q00368,Google Pixel 9 specs,PHO-2024-google-pixel-9,lookup,en
+Q00369,best price Google Pixel 9,PHO-2024-google-pixel-9,lookup,en
+Q00370,compare Google Pixel 9,PHO-2024-google-pixel-9,compare,en
+Q00371,Google Pixel 9 Pro,PHO-2024-google-pixel-9-pro,lookup,en
+Q00372,Google Pixel 9 Pro 2024,PHO-2024-google-pixel-9-pro,lookup,en
+Q00373,Pixel 9 Pro Google,PHO-2024-google-pixel-9-pro,lookup,en
+Q00374,prix Google Pixel 9 Pro,PHO-2024-google-pixel-9-pro,lookup,fr
+Q00375,je cherche Pixel 9 Pro,PHO-2024-google-pixel-9-pro,lookup,fr
+Q00376,alternative à Pixel 9 Pro,PHO-2024-google-pixel-9-pro,compare,en
+Q00377,Pixel 9 Pro fiche technique,PHO-2024-google-pixel-9-pro,lookup,fr
+Q00378,Google Pixel 9 Pro specs,PHO-2024-google-pixel-9-pro,lookup,en
+Q00379,best price Google Pixel 9 Pro,PHO-2024-google-pixel-9-pro,lookup,en
+Q00380,compare Google Pixel 9 Pro,PHO-2024-google-pixel-9-pro,compare,en
+Q00381,Google Pixel 9 Pro XL,PHO-2024-google-pixel-9-pro-xl,lookup,en
+Q00382,Google Pixel 9 Pro XL 2024,PHO-2024-google-pixel-9-pro-xl,lookup,en
+Q00383,Pixel 9 Pro XL Google,PHO-2024-google-pixel-9-pro-xl,lookup,en
+Q00384,prix Google Pixel 9 Pro XL,PHO-2024-google-pixel-9-pro-xl,lookup,fr
+Q00385,je cherche Pixel 9 Pro XL,PHO-2024-google-pixel-9-pro-xl,lookup,fr
+Q00386,alternative à Pixel 9 Pro XL,PHO-2024-google-pixel-9-pro-xl,compare,en
+Q00387,Pixel 9 Pro XL fiche technique,PHO-2024-google-pixel-9-pro-xl,lookup,fr
+Q00388,Google Pixel 9 Pro XL specs,PHO-2024-google-pixel-9-pro-xl,lookup,en
+Q00389,best price Google Pixel 9 Pro XL,PHO-2024-google-pixel-9-pro-xl,lookup,en
+Q00390,compare Google Pixel 9 Pro XL,PHO-2024-google-pixel-9-pro-xl,compare,en
+Q00391,Google Pixel 10,PHO-2025-google-pixel-10,lookup,en
+Q00392,Google Pixel 10 2025,PHO-2025-google-pixel-10,lookup,en
+Q00393,Pixel 10 Google,PHO-2025-google-pixel-10,lookup,en
+Q00394,prix Google Pixel 10,PHO-2025-google-pixel-10,lookup,fr
+Q00395,je cherche Pixel 10,PHO-2025-google-pixel-10,lookup,fr
+Q00396,alternative à Pixel 10,PHO-2025-google-pixel-10,compare,en
+Q00397,Pixel 10 fiche technique,PHO-2025-google-pixel-10,lookup,fr
+Q00398,Google Pixel 10 specs,PHO-2025-google-pixel-10,lookup,en
+Q00399,best price Google Pixel 10,PHO-2025-google-pixel-10,lookup,en
+Q00400,compare Google Pixel 10,PHO-2025-google-pixel-10,compare,en
+Q00401,Google Pixel 10 Pro,PHO-2025-google-pixel-10-pro,lookup,en
+Q00402,Google Pixel 10 Pro 2025,PHO-2025-google-pixel-10-pro,lookup,en
+Q00403,Pixel 10 Pro Google,PHO-2025-google-pixel-10-pro,lookup,en
+Q00404,prix Google Pixel 10 Pro,PHO-2025-google-pixel-10-pro,lookup,fr
+Q00405,je cherche Pixel 10 Pro,PHO-2025-google-pixel-10-pro,lookup,fr
+Q00406,alternative à Pixel 10 Pro,PHO-2025-google-pixel-10-pro,compare,en
+Q00407,Pixel 10 Pro fiche technique,PHO-2025-google-pixel-10-pro,lookup,fr
+Q00408,Google Pixel 10 Pro specs,PHO-2025-google-pixel-10-pro,lookup,en
+Q00409,best price Google Pixel 10 Pro,PHO-2025-google-pixel-10-pro,lookup,en
+Q00410,compare Google Pixel 10 Pro,PHO-2025-google-pixel-10-pro,compare,en
+Q00411,Google Pixel 10 Pro XL,PHO-2025-google-pixel-10-pro-xl,lookup,en
+Q00412,Google Pixel 10 Pro XL 2025,PHO-2025-google-pixel-10-pro-xl,lookup,en
+Q00413,Pixel 10 Pro XL Google,PHO-2025-google-pixel-10-pro-xl,lookup,en
+Q00414,prix Google Pixel 10 Pro XL,PHO-2025-google-pixel-10-pro-xl,lookup,fr
+Q00415,je cherche Pixel 10 Pro XL,PHO-2025-google-pixel-10-pro-xl,lookup,fr
+Q00416,alternative à Pixel 10 Pro XL,PHO-2025-google-pixel-10-pro-xl,compare,en
+Q00417,Pixel 10 Pro XL fiche technique,PHO-2025-google-pixel-10-pro-xl,lookup,fr
+Q00418,Google Pixel 10 Pro XL specs,PHO-2025-google-pixel-10-pro-xl,lookup,en
+Q00419,best price Google Pixel 10 Pro XL,PHO-2025-google-pixel-10-pro-xl,lookup,en
+Q00420,compare Google Pixel 10 Pro XL,PHO-2025-google-pixel-10-pro-xl,compare,en
+Q00421,Google Pixel 10 Pro Fold,PHO-2025-google-pixel-10-pro-fold,lookup,en
+Q00422,Google Pixel 10 Pro Fold 2025,PHO-2025-google-pixel-10-pro-fold,lookup,en
+Q00423,Pixel 10 Pro Fold Google,PHO-2025-google-pixel-10-pro-fold,lookup,en
+Q00424,prix Google Pixel 10 Pro Fold,PHO-2025-google-pixel-10-pro-fold,lookup,fr
+Q00425,je cherche Pixel 10 Pro Fold,PHO-2025-google-pixel-10-pro-fold,lookup,fr
+Q00426,alternative à Pixel 10 Pro Fold,PHO-2025-google-pixel-10-pro-fold,compare,en
+Q00427,Pixel 10 Pro Fold fiche technique,PHO-2025-google-pixel-10-pro-fold,lookup,fr
+Q00428,Google Pixel 10 Pro Fold specs,PHO-2025-google-pixel-10-pro-fold,lookup,en
+Q00429,best price Google Pixel 10 Pro Fold,PHO-2025-google-pixel-10-pro-fold,lookup,en
+Q00430,compare Google Pixel 10 Pro Fold,PHO-2025-google-pixel-10-pro-fold,compare,en
+Q00431,OnePlus OnePlus 12,PHO-2024-oneplus-oneplus-12,lookup,en
+Q00432,OnePlus OnePlus 12 2024,PHO-2024-oneplus-oneplus-12,lookup,en
+Q00433,OnePlus 12 OnePlus,PHO-2024-oneplus-oneplus-12,lookup,en
+Q00434,prix OnePlus OnePlus 12,PHO-2024-oneplus-oneplus-12,lookup,fr
+Q00435,je cherche OnePlus 12,PHO-2024-oneplus-oneplus-12,lookup,fr
+Q00436,alternative à OnePlus 12,PHO-2024-oneplus-oneplus-12,compare,en
+Q00437,OnePlus 12 fiche technique,PHO-2024-oneplus-oneplus-12,lookup,fr
+Q00438,OnePlus OnePlus 12 specs,PHO-2024-oneplus-oneplus-12,lookup,en
+Q00439,best price OnePlus OnePlus 12,PHO-2024-oneplus-oneplus-12,lookup,en
+Q00440,compare OnePlus OnePlus 12,PHO-2024-oneplus-oneplus-12,compare,en
+Q00441,OnePlus OnePlus 12R,PHO-2024-oneplus-oneplus-12r,lookup,en
+Q00442,OnePlus OnePlus 12R 2024,PHO-2024-oneplus-oneplus-12r,lookup,en
+Q00443,OnePlus 12R OnePlus,PHO-2024-oneplus-oneplus-12r,lookup,en
+Q00444,prix OnePlus OnePlus 12R,PHO-2024-oneplus-oneplus-12r,lookup,fr
+Q00445,je cherche OnePlus 12R,PHO-2024-oneplus-oneplus-12r,lookup,fr
+Q00446,alternative à OnePlus 12R,PHO-2024-oneplus-oneplus-12r,compare,en
+Q00447,OnePlus 12R fiche technique,PHO-2024-oneplus-oneplus-12r,lookup,fr
+Q00448,OnePlus OnePlus 12R specs,PHO-2024-oneplus-oneplus-12r,lookup,en
+Q00449,best price OnePlus OnePlus 12R,PHO-2024-oneplus-oneplus-12r,lookup,en
+Q00450,compare OnePlus OnePlus 12R,PHO-2024-oneplus-oneplus-12r,compare,en
+Q00451,OnePlus OnePlus 13,PHO-2025-oneplus-oneplus-13,lookup,en
+Q00452,OnePlus OnePlus 13 2025,PHO-2025-oneplus-oneplus-13,lookup,en
+Q00453,OnePlus 13 OnePlus,PHO-2025-oneplus-oneplus-13,lookup,en
+Q00454,prix OnePlus OnePlus 13,PHO-2025-oneplus-oneplus-13,lookup,fr
+Q00455,je cherche OnePlus 13,PHO-2025-oneplus-oneplus-13,lookup,fr
+Q00456,alternative à OnePlus 13,PHO-2025-oneplus-oneplus-13,compare,en
+Q00457,OnePlus 13 fiche technique,PHO-2025-oneplus-oneplus-13,lookup,fr
+Q00458,OnePlus OnePlus 13 specs,PHO-2025-oneplus-oneplus-13,lookup,en
+Q00459,best price OnePlus OnePlus 13,PHO-2025-oneplus-oneplus-13,lookup,en
+Q00460,compare OnePlus OnePlus 13,PHO-2025-oneplus-oneplus-13,compare,en
+Q00461,Xiaomi Xiaomi 14,PHO-2023-xiaomi-xiaomi-14,lookup,en
+Q00462,Xiaomi Xiaomi 14 2023,PHO-2023-xiaomi-xiaomi-14,lookup,en
+Q00463,Xiaomi 14 Xiaomi,PHO-2023-xiaomi-xiaomi-14,lookup,en
+Q00464,prix Xiaomi Xiaomi 14,PHO-2023-xiaomi-xiaomi-14,lookup,fr
+Q00465,je cherche Xiaomi 14,PHO-2023-xiaomi-xiaomi-14,lookup,fr
+Q00466,alternative à Xiaomi 14,PHO-2023-xiaomi-xiaomi-14,compare,en
+Q00467,Xiaomi 14 fiche technique,PHO-2023-xiaomi-xiaomi-14,lookup,fr
+Q00468,Xiaomi Xiaomi 14 specs,PHO-2023-xiaomi-xiaomi-14,lookup,en
+Q00469,best price Xiaomi Xiaomi 14,PHO-2023-xiaomi-xiaomi-14,lookup,en
+Q00470,compare Xiaomi Xiaomi 14,PHO-2023-xiaomi-xiaomi-14,compare,en
+Q00471,Xiaomi Xiaomi 14 Pro,PHO-2023-xiaomi-xiaomi-14-pro,lookup,en
+Q00472,Xiaomi Xiaomi 14 Pro 2023,PHO-2023-xiaomi-xiaomi-14-pro,lookup,en
+Q00473,Xiaomi 14 Pro Xiaomi,PHO-2023-xiaomi-xiaomi-14-pro,lookup,en
+Q00474,prix Xiaomi Xiaomi 14 Pro,PHO-2023-xiaomi-xiaomi-14-pro,lookup,fr
+Q00475,je cherche Xiaomi 14 Pro,PHO-2023-xiaomi-xiaomi-14-pro,lookup,fr
+Q00476,alternative à Xiaomi 14 Pro,PHO-2023-xiaomi-xiaomi-14-pro,compare,en
+Q00477,Xiaomi 14 Pro fiche technique,PHO-2023-xiaomi-xiaomi-14-pro,lookup,fr
+Q00478,Xiaomi Xiaomi 14 Pro specs,PHO-2023-xiaomi-xiaomi-14-pro,lookup,en
+Q00479,best price Xiaomi Xiaomi 14 Pro,PHO-2023-xiaomi-xiaomi-14-pro,lookup,en
+Q00480,compare Xiaomi Xiaomi 14 Pro,PHO-2023-xiaomi-xiaomi-14-pro,compare,en
+Q00481,Xiaomi Xiaomi 14 Ultra,PHO-2024-xiaomi-xiaomi-14-ultra,lookup,en
+Q00482,Xiaomi Xiaomi 14 Ultra 2024,PHO-2024-xiaomi-xiaomi-14-ultra,lookup,en
+Q00483,Xiaomi 14 Ultra Xiaomi,PHO-2024-xiaomi-xiaomi-14-ultra,lookup,en
+Q00484,prix Xiaomi Xiaomi 14 Ultra,PHO-2024-xiaomi-xiaomi-14-ultra,lookup,fr
+Q00485,je cherche Xiaomi 14 Ultra,PHO-2024-xiaomi-xiaomi-14-ultra,lookup,fr
+Q00486,alternative à Xiaomi 14 Ultra,PHO-2024-xiaomi-xiaomi-14-ultra,compare,en
+Q00487,Xiaomi 14 Ultra fiche technique,PHO-2024-xiaomi-xiaomi-14-ultra,lookup,fr
+Q00488,Xiaomi Xiaomi 14 Ultra specs,PHO-2024-xiaomi-xiaomi-14-ultra,lookup,en
+Q00489,best price Xiaomi Xiaomi 14 Ultra,PHO-2024-xiaomi-xiaomi-14-ultra,lookup,en
+Q00490,compare Xiaomi Xiaomi 14 Ultra,PHO-2024-xiaomi-xiaomi-14-ultra,compare,en
+Q00491,Xiaomi Xiaomi 15,PHO-2024-xiaomi-xiaomi-15,lookup,en
+Q00492,Xiaomi Xiaomi 15 2024,PHO-2024-xiaomi-xiaomi-15,lookup,en
+Q00493,Xiaomi 15 Xiaomi,PHO-2024-xiaomi-xiaomi-15,lookup,en
+Q00494,prix Xiaomi Xiaomi 15,PHO-2024-xiaomi-xiaomi-15,lookup,fr
+Q00495,je cherche Xiaomi 15,PHO-2024-xiaomi-xiaomi-15,lookup,fr
+Q00496,alternative à Xiaomi 15,PHO-2024-xiaomi-xiaomi-15,compare,en
+Q00497,Xiaomi 15 fiche technique,PHO-2024-xiaomi-xiaomi-15,lookup,fr
+Q00498,Xiaomi Xiaomi 15 specs,PHO-2024-xiaomi-xiaomi-15,lookup,en
+Q00499,best price Xiaomi Xiaomi 15,PHO-2024-xiaomi-xiaomi-15,lookup,en
+Q00500,compare Xiaomi Xiaomi 15,PHO-2024-xiaomi-xiaomi-15,compare,en
+Q00501,Xiaomi Xiaomi 15 Pro,PHO-2024-xiaomi-xiaomi-15-pro,lookup,en
+Q00502,Xiaomi Xiaomi 15 Pro 2024,PHO-2024-xiaomi-xiaomi-15-pro,lookup,en
+Q00503,Xiaomi 15 Pro Xiaomi,PHO-2024-xiaomi-xiaomi-15-pro,lookup,en
+Q00504,prix Xiaomi Xiaomi 15 Pro,PHO-2024-xiaomi-xiaomi-15-pro,lookup,fr
+Q00505,je cherche Xiaomi 15 Pro,PHO-2024-xiaomi-xiaomi-15-pro,lookup,fr
+Q00506,alternative à Xiaomi 15 Pro,PHO-2024-xiaomi-xiaomi-15-pro,compare,en
+Q00507,Xiaomi 15 Pro fiche technique,PHO-2024-xiaomi-xiaomi-15-pro,lookup,fr
+Q00508,Xiaomi Xiaomi 15 Pro specs,PHO-2024-xiaomi-xiaomi-15-pro,lookup,en
+Q00509,best price Xiaomi Xiaomi 15 Pro,PHO-2024-xiaomi-xiaomi-15-pro,lookup,en
+Q00510,compare Xiaomi Xiaomi 15 Pro,PHO-2024-xiaomi-xiaomi-15-pro,compare,en
+Q00511,Xiaomi Xiaomi 15 Ultra,PHO-2025-xiaomi-xiaomi-15-ultra,lookup,en
+Q00512,Xiaomi Xiaomi 15 Ultra 2025,PHO-2025-xiaomi-xiaomi-15-ultra,lookup,en
+Q00513,Xiaomi 15 Ultra Xiaomi,PHO-2025-xiaomi-xiaomi-15-ultra,lookup,en
+Q00514,prix Xiaomi Xiaomi 15 Ultra,PHO-2025-xiaomi-xiaomi-15-ultra,lookup,fr
+Q00515,je cherche Xiaomi 15 Ultra,PHO-2025-xiaomi-xiaomi-15-ultra,lookup,fr
+Q00516,alternative à Xiaomi 15 Ultra,PHO-2025-xiaomi-xiaomi-15-ultra,compare,en
+Q00517,Xiaomi 15 Ultra fiche technique,PHO-2025-xiaomi-xiaomi-15-ultra,lookup,fr
+Q00518,Xiaomi Xiaomi 15 Ultra specs,PHO-2025-xiaomi-xiaomi-15-ultra,lookup,en
+Q00519,best price Xiaomi Xiaomi 15 Ultra,PHO-2025-xiaomi-xiaomi-15-ultra,lookup,en
+Q00520,compare Xiaomi Xiaomi 15 Ultra,PHO-2025-xiaomi-xiaomi-15-ultra,compare,en
+Q00521,Xiaomi Xiaomi 15S Pro,PHO-2025-xiaomi-xiaomi-15s-pro,lookup,en
+Q00522,Xiaomi Xiaomi 15S Pro 2025,PHO-2025-xiaomi-xiaomi-15s-pro,lookup,en
+Q00523,Xiaomi 15S Pro Xiaomi,PHO-2025-xiaomi-xiaomi-15s-pro,lookup,en
+Q00524,prix Xiaomi Xiaomi 15S Pro,PHO-2025-xiaomi-xiaomi-15s-pro,lookup,fr
+Q00525,je cherche Xiaomi 15S Pro,PHO-2025-xiaomi-xiaomi-15s-pro,lookup,fr
+Q00526,alternative à Xiaomi 15S Pro,PHO-2025-xiaomi-xiaomi-15s-pro,compare,en
+Q00527,Xiaomi 15S Pro fiche technique,PHO-2025-xiaomi-xiaomi-15s-pro,lookup,fr
+Q00528,Xiaomi Xiaomi 15S Pro specs,PHO-2025-xiaomi-xiaomi-15s-pro,lookup,en
+Q00529,best price Xiaomi Xiaomi 15S Pro,PHO-2025-xiaomi-xiaomi-15s-pro,lookup,en
+Q00530,compare Xiaomi Xiaomi 15S Pro,PHO-2025-xiaomi-xiaomi-15s-pro,compare,en
+Q00531,Intel Core i9-14900K,PC_-2023-intel-core-i9-14900k,lookup,en
+Q00532,Intel Core i9-14900K 2023,PC_-2023-intel-core-i9-14900k,lookup,en
+Q00533,Core i9-14900K Intel,PC_-2023-intel-core-i9-14900k,lookup,en
+Q00534,prix Intel Core i9-14900K,PC_-2023-intel-core-i9-14900k,lookup,fr
+Q00535,je cherche Core i9-14900K,PC_-2023-intel-core-i9-14900k,lookup,fr
+Q00536,alternative à Core i9-14900K,PC_-2023-intel-core-i9-14900k,compare,en
+Q00537,Core i9-14900K fiche technique,PC_-2023-intel-core-i9-14900k,lookup,fr
+Q00538,Intel Core i9-14900K specs,PC_-2023-intel-core-i9-14900k,lookup,en
+Q00539,best price Intel Core i9-14900K,PC_-2023-intel-core-i9-14900k,lookup,en
+Q00540,compare Intel Core i9-14900K,PC_-2023-intel-core-i9-14900k,compare,en
+Q00541,Intel Core i7-14700K,PC_-2023-intel-core-i7-14700k,lookup,en
+Q00542,Intel Core i7-14700K 2023,PC_-2023-intel-core-i7-14700k,lookup,en
+Q00543,Core i7-14700K Intel,PC_-2023-intel-core-i7-14700k,lookup,en
+Q00544,prix Intel Core i7-14700K,PC_-2023-intel-core-i7-14700k,lookup,fr
+Q00545,je cherche Core i7-14700K,PC_-2023-intel-core-i7-14700k,lookup,fr
+Q00546,alternative à Core i7-14700K,PC_-2023-intel-core-i7-14700k,compare,en
+Q00547,Core i7-14700K fiche technique,PC_-2023-intel-core-i7-14700k,lookup,fr
+Q00548,Intel Core i7-14700K specs,PC_-2023-intel-core-i7-14700k,lookup,en
+Q00549,best price Intel Core i7-14700K,PC_-2023-intel-core-i7-14700k,lookup,en
+Q00550,compare Intel Core i7-14700K,PC_-2023-intel-core-i7-14700k,compare,en
+Q00551,Intel Core i5-14600K,PC_-2023-intel-core-i5-14600k,lookup,en
+Q00552,Intel Core i5-14600K 2023,PC_-2023-intel-core-i5-14600k,lookup,en
+Q00553,Core i5-14600K Intel,PC_-2023-intel-core-i5-14600k,lookup,en
+Q00554,prix Intel Core i5-14600K,PC_-2023-intel-core-i5-14600k,lookup,fr
+Q00555,je cherche Core i5-14600K,PC_-2023-intel-core-i5-14600k,lookup,fr
+Q00556,alternative à Core i5-14600K,PC_-2023-intel-core-i5-14600k,compare,en
+Q00557,Core i5-14600K fiche technique,PC_-2023-intel-core-i5-14600k,lookup,fr
+Q00558,Intel Core i5-14600K specs,PC_-2023-intel-core-i5-14600k,lookup,en
+Q00559,best price Intel Core i5-14600K,PC_-2023-intel-core-i5-14600k,lookup,en
+Q00560,compare Intel Core i5-14600K,PC_-2023-intel-core-i5-14600k,compare,en
+Q00561,AMD Ryzen 7 7800X3D,PC_-2023-amd-ryzen-7-7800x3d,lookup,en
+Q00562,AMD Ryzen 7 7800X3D 2023,PC_-2023-amd-ryzen-7-7800x3d,lookup,en
+Q00563,Ryzen 7 7800X3D AMD,PC_-2023-amd-ryzen-7-7800x3d,lookup,en
+Q00564,prix AMD Ryzen 7 7800X3D,PC_-2023-amd-ryzen-7-7800x3d,lookup,fr
+Q00565,je cherche Ryzen 7 7800X3D,PC_-2023-amd-ryzen-7-7800x3d,lookup,fr
+Q00566,alternative à Ryzen 7 7800X3D,PC_-2023-amd-ryzen-7-7800x3d,compare,en
+Q00567,Ryzen 7 7800X3D fiche technique,PC_-2023-amd-ryzen-7-7800x3d,lookup,fr
+Q00568,AMD Ryzen 7 7800X3D specs,PC_-2023-amd-ryzen-7-7800x3d,lookup,en
+Q00569,best price AMD Ryzen 7 7800X3D,PC_-2023-amd-ryzen-7-7800x3d,lookup,en
+Q00570,compare AMD Ryzen 7 7800X3D,PC_-2023-amd-ryzen-7-7800x3d,compare,en
+Q00571,AMD Ryzen 9 7950X3D,PC_-2023-amd-ryzen-9-7950x3d,lookup,en
+Q00572,AMD Ryzen 9 7950X3D 2023,PC_-2023-amd-ryzen-9-7950x3d,lookup,en
+Q00573,Ryzen 9 7950X3D AMD,PC_-2023-amd-ryzen-9-7950x3d,lookup,en
+Q00574,prix AMD Ryzen 9 7950X3D,PC_-2023-amd-ryzen-9-7950x3d,lookup,fr
+Q00575,je cherche Ryzen 9 7950X3D,PC_-2023-amd-ryzen-9-7950x3d,lookup,fr
+Q00576,alternative à Ryzen 9 7950X3D,PC_-2023-amd-ryzen-9-7950x3d,compare,en
+Q00577,Ryzen 9 7950X3D fiche technique,PC_-2023-amd-ryzen-9-7950x3d,lookup,fr
+Q00578,AMD Ryzen 9 7950X3D specs,PC_-2023-amd-ryzen-9-7950x3d,lookup,en
+Q00579,best price AMD Ryzen 9 7950X3D,PC_-2023-amd-ryzen-9-7950x3d,lookup,en
+Q00580,compare AMD Ryzen 9 7950X3D,PC_-2023-amd-ryzen-9-7950x3d,compare,en
+Q00581,Intel Core Ultra 7 265K,PC_-2024-intel-core-ultra-7-265k,lookup,en
+Q00582,Intel Core Ultra 7 265K 2024,PC_-2024-intel-core-ultra-7-265k,lookup,en
+Q00583,Core Ultra 7 265K Intel,PC_-2024-intel-core-ultra-7-265k,lookup,en
+Q00584,prix Intel Core Ultra 7 265K,PC_-2024-intel-core-ultra-7-265k,lookup,fr
+Q00585,je cherche Core Ultra 7 265K,PC_-2024-intel-core-ultra-7-265k,lookup,fr
+Q00586,alternative à Core Ultra 7 265K,PC_-2024-intel-core-ultra-7-265k,compare,en
+Q00587,Core Ultra 7 265K fiche technique,PC_-2024-intel-core-ultra-7-265k,lookup,fr
+Q00588,Intel Core Ultra 7 265K specs,PC_-2024-intel-core-ultra-7-265k,lookup,en
+Q00589,best price Intel Core Ultra 7 265K,PC_-2024-intel-core-ultra-7-265k,lookup,en
+Q00590,compare Intel Core Ultra 7 265K,PC_-2024-intel-core-ultra-7-265k,compare,en
+Q00591,AMD Ryzen 7 8700G,PC_-2024-amd-ryzen-7-8700g,lookup,en
+Q00592,AMD Ryzen 7 8700G 2024,PC_-2024-amd-ryzen-7-8700g,lookup,en
+Q00593,Ryzen 7 8700G AMD,PC_-2024-amd-ryzen-7-8700g,lookup,en
+Q00594,prix AMD Ryzen 7 8700G,PC_-2024-amd-ryzen-7-8700g,lookup,fr
+Q00595,je cherche Ryzen 7 8700G,PC_-2024-amd-ryzen-7-8700g,lookup,fr
+Q00596,alternative à Ryzen 7 8700G,PC_-2024-amd-ryzen-7-8700g,compare,en
+Q00597,Ryzen 7 8700G fiche technique,PC_-2024-amd-ryzen-7-8700g,lookup,fr
+Q00598,AMD Ryzen 7 8700G specs,PC_-2024-amd-ryzen-7-8700g,lookup,en
+Q00599,best price AMD Ryzen 7 8700G,PC_-2024-amd-ryzen-7-8700g,lookup,en
+Q00600,compare AMD Ryzen 7 8700G,PC_-2024-amd-ryzen-7-8700g,compare,en
+Q00601,AMD Ryzen 5 8600G,PC_-2024-amd-ryzen-5-8600g,lookup,en
+Q00602,AMD Ryzen 5 8600G 2024,PC_-2024-amd-ryzen-5-8600g,lookup,en
+Q00603,Ryzen 5 8600G AMD,PC_-2024-amd-ryzen-5-8600g,lookup,en
+Q00604,prix AMD Ryzen 5 8600G,PC_-2024-amd-ryzen-5-8600g,lookup,fr
+Q00605,je cherche Ryzen 5 8600G,PC_-2024-amd-ryzen-5-8600g,lookup,fr
+Q00606,alternative à Ryzen 5 8600G,PC_-2024-amd-ryzen-5-8600g,compare,en
+Q00607,Ryzen 5 8600G fiche technique,PC_-2024-amd-ryzen-5-8600g,lookup,fr
+Q00608,AMD Ryzen 5 8600G specs,PC_-2024-amd-ryzen-5-8600g,lookup,en
+Q00609,best price AMD Ryzen 5 8600G,PC_-2024-amd-ryzen-5-8600g,lookup,en
+Q00610,compare AMD Ryzen 5 8600G,PC_-2024-amd-ryzen-5-8600g,compare,en
+Q00611,AMD Ryzen 7 9700X,PC_-2024-amd-ryzen-7-9700x,lookup,en
+Q00612,AMD Ryzen 7 9700X 2024,PC_-2024-amd-ryzen-7-9700x,lookup,en
+Q00613,Ryzen 7 9700X AMD,PC_-2024-amd-ryzen-7-9700x,lookup,en
+Q00614,prix AMD Ryzen 7 9700X,PC_-2024-amd-ryzen-7-9700x,lookup,fr
+Q00615,je cherche Ryzen 7 9700X,PC_-2024-amd-ryzen-7-9700x,lookup,fr
+Q00616,alternative à Ryzen 7 9700X,PC_-2024-amd-ryzen-7-9700x,compare,en
+Q00617,Ryzen 7 9700X fiche technique,PC_-2024-amd-ryzen-7-9700x,lookup,fr
+Q00618,AMD Ryzen 7 9700X specs,PC_-2024-amd-ryzen-7-9700x,lookup,en
+Q00619,best price AMD Ryzen 7 9700X,PC_-2024-amd-ryzen-7-9700x,lookup,en
+Q00620,compare AMD Ryzen 7 9700X,PC_-2024-amd-ryzen-7-9700x,compare,en
+Q00621,AMD Ryzen 9 9950X,PC_-2024-amd-ryzen-9-9950x,lookup,en
+Q00622,AMD Ryzen 9 9950X 2024,PC_-2024-amd-ryzen-9-9950x,lookup,en
+Q00623,Ryzen 9 9950X AMD,PC_-2024-amd-ryzen-9-9950x,lookup,en
+Q00624,prix AMD Ryzen 9 9950X,PC_-2024-amd-ryzen-9-9950x,lookup,fr
+Q00625,je cherche Ryzen 9 9950X,PC_-2024-amd-ryzen-9-9950x,lookup,fr
+Q00626,alternative à Ryzen 9 9950X,PC_-2024-amd-ryzen-9-9950x,compare,en
+Q00627,Ryzen 9 9950X fiche technique,PC_-2024-amd-ryzen-9-9950x,lookup,fr
+Q00628,AMD Ryzen 9 9950X specs,PC_-2024-amd-ryzen-9-9950x,lookup,en
+Q00629,best price AMD Ryzen 9 9950X,PC_-2024-amd-ryzen-9-9950x,lookup,en
+Q00630,compare AMD Ryzen 9 9950X,PC_-2024-amd-ryzen-9-9950x,compare,en
+Q00631,Intel Core Ultra 9 295K,PC_-2025-intel-core-ultra-9-295k,lookup,en
+Q00632,Intel Core Ultra 9 295K 2025,PC_-2025-intel-core-ultra-9-295k,lookup,en
+Q00633,Core Ultra 9 295K Intel,PC_-2025-intel-core-ultra-9-295k,lookup,en
+Q00634,prix Intel Core Ultra 9 295K,PC_-2025-intel-core-ultra-9-295k,lookup,fr
+Q00635,je cherche Core Ultra 9 295K,PC_-2025-intel-core-ultra-9-295k,lookup,fr
+Q00636,alternative à Core Ultra 9 295K,PC_-2025-intel-core-ultra-9-295k,compare,en
+Q00637,Core Ultra 9 295K fiche technique,PC_-2025-intel-core-ultra-9-295k,lookup,fr
+Q00638,Intel Core Ultra 9 295K specs,PC_-2025-intel-core-ultra-9-295k,lookup,en
+Q00639,best price Intel Core Ultra 9 295K,PC_-2025-intel-core-ultra-9-295k,lookup,en
+Q00640,compare Intel Core Ultra 9 295K,PC_-2025-intel-core-ultra-9-295k,compare,en
+Q00641,AMD Ryzen 7 9800X3D,PC_-2025-amd-ryzen-7-9800x3d,lookup,en
+Q00642,AMD Ryzen 7 9800X3D 2025,PC_-2025-amd-ryzen-7-9800x3d,lookup,en
+Q00643,Ryzen 7 9800X3D AMD,PC_-2025-amd-ryzen-7-9800x3d,lookup,en
+Q00644,prix AMD Ryzen 7 9800X3D,PC_-2025-amd-ryzen-7-9800x3d,lookup,fr
+Q00645,je cherche Ryzen 7 9800X3D,PC_-2025-amd-ryzen-7-9800x3d,lookup,fr
+Q00646,alternative à Ryzen 7 9800X3D,PC_-2025-amd-ryzen-7-9800x3d,compare,en
+Q00647,Ryzen 7 9800X3D fiche technique,PC_-2025-amd-ryzen-7-9800x3d,lookup,fr
+Q00648,AMD Ryzen 7 9800X3D specs,PC_-2025-amd-ryzen-7-9800x3d,lookup,en
+Q00649,best price AMD Ryzen 7 9800X3D,PC_-2025-amd-ryzen-7-9800x3d,lookup,en
+Q00650,compare AMD Ryzen 7 9800X3D,PC_-2025-amd-ryzen-7-9800x3d,compare,en
+Q00651,AMD Ryzen AI MAX+ 395,PC_-2025-amd-ryzen-ai-max-395,lookup,en
+Q00652,AMD Ryzen AI MAX+ 395 2025,PC_-2025-amd-ryzen-ai-max-395,lookup,en
+Q00653,Ryzen AI MAX+ 395 AMD,PC_-2025-amd-ryzen-ai-max-395,lookup,en
+Q00654,prix AMD Ryzen AI MAX+ 395,PC_-2025-amd-ryzen-ai-max-395,lookup,fr
+Q00655,je cherche Ryzen AI MAX+ 395,PC_-2025-amd-ryzen-ai-max-395,lookup,fr
+Q00656,alternative à Ryzen AI MAX+ 395,PC_-2025-amd-ryzen-ai-max-395,compare,en
+Q00657,Ryzen AI MAX+ 395 fiche technique,PC_-2025-amd-ryzen-ai-max-395,lookup,fr
+Q00658,AMD Ryzen AI MAX+ 395 specs,PC_-2025-amd-ryzen-ai-max-395,lookup,en
+Q00659,best price AMD Ryzen AI MAX+ 395,PC_-2025-amd-ryzen-ai-max-395,lookup,en
+Q00660,compare AMD Ryzen AI MAX+ 395,PC_-2025-amd-ryzen-ai-max-395,compare,en
+Q00661,NVIDIA GeForce RTX 4070,PC_-2023-nvidia-geforce-rtx-4070,lookup,en
+Q00662,NVIDIA GeForce RTX 4070 2023,PC_-2023-nvidia-geforce-rtx-4070,lookup,en
+Q00663,GeForce RTX 4070 NVIDIA,PC_-2023-nvidia-geforce-rtx-4070,lookup,en
+Q00664,prix NVIDIA GeForce RTX 4070,PC_-2023-nvidia-geforce-rtx-4070,lookup,fr
+Q00665,je cherche GeForce RTX 4070,PC_-2023-nvidia-geforce-rtx-4070,lookup,fr
+Q00666,alternative à GeForce RTX 4070,PC_-2023-nvidia-geforce-rtx-4070,compare,en
+Q00667,GeForce RTX 4070 fiche technique,PC_-2023-nvidia-geforce-rtx-4070,lookup,fr
+Q00668,NVIDIA GeForce RTX 4070 specs,PC_-2023-nvidia-geforce-rtx-4070,lookup,en
+Q00669,best price NVIDIA GeForce RTX 4070,PC_-2023-nvidia-geforce-rtx-4070,lookup,en
+Q00670,compare NVIDIA GeForce RTX 4070,PC_-2023-nvidia-geforce-rtx-4070,compare,en
+Q00671,NVIDIA GeForce RTX 4060 Ti,PC_-2023-nvidia-geforce-rtx-4060-ti,lookup,en
+Q00672,NVIDIA GeForce RTX 4060 Ti 2023,PC_-2023-nvidia-geforce-rtx-4060-ti,lookup,en
+Q00673,GeForce RTX 4060 Ti NVIDIA,PC_-2023-nvidia-geforce-rtx-4060-ti,lookup,en
+Q00674,prix NVIDIA GeForce RTX 4060 Ti,PC_-2023-nvidia-geforce-rtx-4060-ti,lookup,fr
+Q00675,je cherche GeForce RTX 4060 Ti,PC_-2023-nvidia-geforce-rtx-4060-ti,lookup,fr
+Q00676,alternative à GeForce RTX 4060 Ti,PC_-2023-nvidia-geforce-rtx-4060-ti,compare,en
+Q00677,GeForce RTX 4060 Ti fiche technique,PC_-2023-nvidia-geforce-rtx-4060-ti,lookup,fr
+Q00678,NVIDIA GeForce RTX 4060 Ti specs,PC_-2023-nvidia-geforce-rtx-4060-ti,lookup,en
+Q00679,best price NVIDIA GeForce RTX 4060 Ti,PC_-2023-nvidia-geforce-rtx-4060-ti,lookup,en
+Q00680,compare NVIDIA GeForce RTX 4060 Ti,PC_-2023-nvidia-geforce-rtx-4060-ti,compare,en
+Q00681,AMD Radeon RX 7800 XT,PC_-2023-amd-radeon-rx-7800-xt,lookup,en
+Q00682,AMD Radeon RX 7800 XT 2023,PC_-2023-amd-radeon-rx-7800-xt,lookup,en
+Q00683,Radeon RX 7800 XT AMD,PC_-2023-amd-radeon-rx-7800-xt,lookup,en
+Q00684,prix AMD Radeon RX 7800 XT,PC_-2023-amd-radeon-rx-7800-xt,lookup,fr
+Q00685,je cherche Radeon RX 7800 XT,PC_-2023-amd-radeon-rx-7800-xt,lookup,fr
+Q00686,alternative à Radeon RX 7800 XT,PC_-2023-amd-radeon-rx-7800-xt,compare,en
+Q00687,Radeon RX 7800 XT fiche technique,PC_-2023-amd-radeon-rx-7800-xt,lookup,fr
+Q00688,AMD Radeon RX 7800 XT specs,PC_-2023-amd-radeon-rx-7800-xt,lookup,en
+Q00689,best price AMD Radeon RX 7800 XT,PC_-2023-amd-radeon-rx-7800-xt,lookup,en
+Q00690,compare AMD Radeon RX 7800 XT,PC_-2023-amd-radeon-rx-7800-xt,compare,en
+Q00691,AMD Radeon RX 7700 XT,PC_-2023-amd-radeon-rx-7700-xt,lookup,en
+Q00692,AMD Radeon RX 7700 XT 2023,PC_-2023-amd-radeon-rx-7700-xt,lookup,en
+Q00693,Radeon RX 7700 XT AMD,PC_-2023-amd-radeon-rx-7700-xt,lookup,en
+Q00694,prix AMD Radeon RX 7700 XT,PC_-2023-amd-radeon-rx-7700-xt,lookup,fr
+Q00695,je cherche Radeon RX 7700 XT,PC_-2023-amd-radeon-rx-7700-xt,lookup,fr
+Q00696,alternative à Radeon RX 7700 XT,PC_-2023-amd-radeon-rx-7700-xt,compare,en
+Q00697,Radeon RX 7700 XT fiche technique,PC_-2023-amd-radeon-rx-7700-xt,lookup,fr
+Q00698,AMD Radeon RX 7700 XT specs,PC_-2023-amd-radeon-rx-7700-xt,lookup,en
+Q00699,best price AMD Radeon RX 7700 XT,PC_-2023-amd-radeon-rx-7700-xt,lookup,en
+Q00700,compare AMD Radeon RX 7700 XT,PC_-2023-amd-radeon-rx-7700-xt,compare,en
+Q00701,NVIDIA GeForce RTX 4070 SUPER,PC_-2024-nvidia-geforce-rtx-4070-super,lookup,en
+Q00702,NVIDIA GeForce RTX 4070 SUPER 2024,PC_-2024-nvidia-geforce-rtx-4070-super,lookup,en
+Q00703,GeForce RTX 4070 SUPER NVIDIA,PC_-2024-nvidia-geforce-rtx-4070-super,lookup,en
+Q00704,prix NVIDIA GeForce RTX 4070 SUPER,PC_-2024-nvidia-geforce-rtx-4070-super,lookup,fr
+Q00705,je cherche GeForce RTX 4070 SUPER,PC_-2024-nvidia-geforce-rtx-4070-super,lookup,fr
+Q00706,alternative à GeForce RTX 4070 SUPER,PC_-2024-nvidia-geforce-rtx-4070-super,compare,en
+Q00707,GeForce RTX 4070 SUPER fiche technique,PC_-2024-nvidia-geforce-rtx-4070-super,lookup,fr
+Q00708,NVIDIA GeForce RTX 4070 SUPER specs,PC_-2024-nvidia-geforce-rtx-4070-super,lookup,en
+Q00709,best price NVIDIA GeForce RTX 4070 SUPER,PC_-2024-nvidia-geforce-rtx-4070-super,lookup,en
+Q00710,compare NVIDIA GeForce RTX 4070 SUPER,PC_-2024-nvidia-geforce-rtx-4070-super,compare,en
+Q00711,NVIDIA GeForce RTX 4080 SUPER,PC_-2024-nvidia-geforce-rtx-4080-super,lookup,en
+Q00712,NVIDIA GeForce RTX 4080 SUPER 2024,PC_-2024-nvidia-geforce-rtx-4080-super,lookup,en
+Q00713,GeForce RTX 4080 SUPER NVIDIA,PC_-2024-nvidia-geforce-rtx-4080-super,lookup,en
+Q00714,prix NVIDIA GeForce RTX 4080 SUPER,PC_-2024-nvidia-geforce-rtx-4080-super,lookup,fr
+Q00715,je cherche GeForce RTX 4080 SUPER,PC_-2024-nvidia-geforce-rtx-4080-super,lookup,fr
+Q00716,alternative à GeForce RTX 4080 SUPER,PC_-2024-nvidia-geforce-rtx-4080-super,compare,en
+Q00717,GeForce RTX 4080 SUPER fiche technique,PC_-2024-nvidia-geforce-rtx-4080-super,lookup,fr
+Q00718,NVIDIA GeForce RTX 4080 SUPER specs,PC_-2024-nvidia-geforce-rtx-4080-super,lookup,en
+Q00719,best price NVIDIA GeForce RTX 4080 SUPER,PC_-2024-nvidia-geforce-rtx-4080-super,lookup,en
+Q00720,compare NVIDIA GeForce RTX 4080 SUPER,PC_-2024-nvidia-geforce-rtx-4080-super,compare,en
+Q00721,AMD Radeon RX 7600 XT,PC_-2024-amd-radeon-rx-7600-xt,lookup,en
+Q00722,AMD Radeon RX 7600 XT 2024,PC_-2024-amd-radeon-rx-7600-xt,lookup,en
+Q00723,Radeon RX 7600 XT AMD,PC_-2024-amd-radeon-rx-7600-xt,lookup,en
+Q00724,prix AMD Radeon RX 7600 XT,PC_-2024-amd-radeon-rx-7600-xt,lookup,fr
+Q00725,je cherche Radeon RX 7600 XT,PC_-2024-amd-radeon-rx-7600-xt,lookup,fr
+Q00726,alternative à Radeon RX 7600 XT,PC_-2024-amd-radeon-rx-7600-xt,compare,en
+Q00727,Radeon RX 7600 XT fiche technique,PC_-2024-amd-radeon-rx-7600-xt,lookup,fr
+Q00728,AMD Radeon RX 7600 XT specs,PC_-2024-amd-radeon-rx-7600-xt,lookup,en
+Q00729,best price AMD Radeon RX 7600 XT,PC_-2024-amd-radeon-rx-7600-xt,lookup,en
+Q00730,compare AMD Radeon RX 7600 XT,PC_-2024-amd-radeon-rx-7600-xt,compare,en
+Q00731,NVIDIA GeForce RTX 5090,PC_-2025-nvidia-geforce-rtx-5090,lookup,en
+Q00732,NVIDIA GeForce RTX 5090 2025,PC_-2025-nvidia-geforce-rtx-5090,lookup,en
+Q00733,GeForce RTX 5090 NVIDIA,PC_-2025-nvidia-geforce-rtx-5090,lookup,en
+Q00734,prix NVIDIA GeForce RTX 5090,PC_-2025-nvidia-geforce-rtx-5090,lookup,fr
+Q00735,je cherche GeForce RTX 5090,PC_-2025-nvidia-geforce-rtx-5090,lookup,fr
+Q00736,alternative à GeForce RTX 5090,PC_-2025-nvidia-geforce-rtx-5090,compare,en
+Q00737,GeForce RTX 5090 fiche technique,PC_-2025-nvidia-geforce-rtx-5090,lookup,fr
+Q00738,NVIDIA GeForce RTX 5090 specs,PC_-2025-nvidia-geforce-rtx-5090,lookup,en
+Q00739,best price NVIDIA GeForce RTX 5090,PC_-2025-nvidia-geforce-rtx-5090,lookup,en
+Q00740,compare NVIDIA GeForce RTX 5090,PC_-2025-nvidia-geforce-rtx-5090,compare,en
+Q00741,NVIDIA GeForce RTX 5080,PC_-2025-nvidia-geforce-rtx-5080,lookup,en
+Q00742,NVIDIA GeForce RTX 5080 2025,PC_-2025-nvidia-geforce-rtx-5080,lookup,en
+Q00743,GeForce RTX 5080 NVIDIA,PC_-2025-nvidia-geforce-rtx-5080,lookup,en
+Q00744,prix NVIDIA GeForce RTX 5080,PC_-2025-nvidia-geforce-rtx-5080,lookup,fr
+Q00745,je cherche GeForce RTX 5080,PC_-2025-nvidia-geforce-rtx-5080,lookup,fr
+Q00746,alternative à GeForce RTX 5080,PC_-2025-nvidia-geforce-rtx-5080,compare,en
+Q00747,GeForce RTX 5080 fiche technique,PC_-2025-nvidia-geforce-rtx-5080,lookup,fr
+Q00748,NVIDIA GeForce RTX 5080 specs,PC_-2025-nvidia-geforce-rtx-5080,lookup,en
+Q00749,best price NVIDIA GeForce RTX 5080,PC_-2025-nvidia-geforce-rtx-5080,lookup,en
+Q00750,compare NVIDIA GeForce RTX 5080,PC_-2025-nvidia-geforce-rtx-5080,compare,en
+Q00751,AMD Radeon RX 9070 XT,PC_-2025-amd-radeon-rx-9070-xt,lookup,en
+Q00752,AMD Radeon RX 9070 XT 2025,PC_-2025-amd-radeon-rx-9070-xt,lookup,en
+Q00753,Radeon RX 9070 XT AMD,PC_-2025-amd-radeon-rx-9070-xt,lookup,en
+Q00754,prix AMD Radeon RX 9070 XT,PC_-2025-amd-radeon-rx-9070-xt,lookup,fr
+Q00755,je cherche Radeon RX 9070 XT,PC_-2025-amd-radeon-rx-9070-xt,lookup,fr
+Q00756,alternative à Radeon RX 9070 XT,PC_-2025-amd-radeon-rx-9070-xt,compare,en
+Q00757,Radeon RX 9070 XT fiche technique,PC_-2025-amd-radeon-rx-9070-xt,lookup,fr
+Q00758,AMD Radeon RX 9070 XT specs,PC_-2025-amd-radeon-rx-9070-xt,lookup,en
+Q00759,best price AMD Radeon RX 9070 XT,PC_-2025-amd-radeon-rx-9070-xt,lookup,en
+Q00760,compare AMD Radeon RX 9070 XT,PC_-2025-amd-radeon-rx-9070-xt,compare,en
+Q00761,AMD Radeon RX 9060 XT,PC_-2025-amd-radeon-rx-9060-xt,lookup,en
+Q00762,AMD Radeon RX 9060 XT 2025,PC_-2025-amd-radeon-rx-9060-xt,lookup,en
+Q00763,Radeon RX 9060 XT AMD,PC_-2025-amd-radeon-rx-9060-xt,lookup,en
+Q00764,prix AMD Radeon RX 9060 XT,PC_-2025-amd-radeon-rx-9060-xt,lookup,fr
+Q00765,je cherche Radeon RX 9060 XT,PC_-2025-amd-radeon-rx-9060-xt,lookup,fr
+Q00766,alternative à Radeon RX 9060 XT,PC_-2025-amd-radeon-rx-9060-xt,compare,en
+Q00767,Radeon RX 9060 XT fiche technique,PC_-2025-amd-radeon-rx-9060-xt,lookup,fr
+Q00768,AMD Radeon RX 9060 XT specs,PC_-2025-amd-radeon-rx-9060-xt,lookup,en
+Q00769,best price AMD Radeon RX 9060 XT,PC_-2025-amd-radeon-rx-9060-xt,lookup,en
+Q00770,compare AMD Radeon RX 9060 XT,PC_-2025-amd-radeon-rx-9060-xt,compare,en
+Q00771,Corsair Vengeance DDR5 32GB (2x16) 6000,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,lookup,en
+Q00772,Corsair Vengeance DDR5 32GB (2x16) 6000 2023,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,lookup,en
+Q00773,Vengeance DDR5 32GB (2x16) 6000 Corsair,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,lookup,en
+Q00774,prix Corsair Vengeance DDR5 32GB (2x16) 6000,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,lookup,fr
+Q00775,je cherche Vengeance DDR5 32GB (2x16) 6000,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,lookup,fr
+Q00776,alternative à Vengeance DDR5 32GB (2x16) 6000,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,compare,en
+Q00777,Vengeance DDR5 32GB (2x16) 6000 fiche technique,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,lookup,fr
+Q00778,Corsair Vengeance DDR5 32GB (2x16) 6000 specs,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,lookup,en
+Q00779,best price Corsair Vengeance DDR5 32GB (2x16) 6000,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,lookup,en
+Q00780,compare Corsair Vengeance DDR5 32GB (2x16) 6000,PC_-2023-corsair-vengeance-ddr5-32gb-2x16-6000,compare,en
+Q00781,Samsung 980 PRO 1TB NVMe,PC_-2023-samsung-980-pro-1tb-nvme,lookup,en
+Q00782,Samsung 980 PRO 1TB NVMe 2023,PC_-2023-samsung-980-pro-1tb-nvme,lookup,en
+Q00783,980 PRO 1TB NVMe Samsung,PC_-2023-samsung-980-pro-1tb-nvme,lookup,en
+Q00784,prix Samsung 980 PRO 1TB NVMe,PC_-2023-samsung-980-pro-1tb-nvme,lookup,fr
+Q00785,je cherche 980 PRO 1TB NVMe,PC_-2023-samsung-980-pro-1tb-nvme,lookup,fr
+Q00786,alternative à 980 PRO 1TB NVMe,PC_-2023-samsung-980-pro-1tb-nvme,compare,en
+Q00787,980 PRO 1TB NVMe fiche technique,PC_-2023-samsung-980-pro-1tb-nvme,lookup,fr
+Q00788,Samsung 980 PRO 1TB NVMe specs,PC_-2023-samsung-980-pro-1tb-nvme,lookup,en
+Q00789,best price Samsung 980 PRO 1TB NVMe,PC_-2023-samsung-980-pro-1tb-nvme,lookup,en
+Q00790,compare Samsung 980 PRO 1TB NVMe,PC_-2023-samsung-980-pro-1tb-nvme,compare,en
+Q00791,Seasonic FOCUS GX-750 (80+ Gold),PC_-2023-seasonic-focus-gx-750-80-gold,lookup,en
+Q00792,Seasonic FOCUS GX-750 (80+ Gold) 2023,PC_-2023-seasonic-focus-gx-750-80-gold,lookup,en
+Q00793,FOCUS GX-750 (80+ Gold) Seasonic,PC_-2023-seasonic-focus-gx-750-80-gold,lookup,en
+Q00794,prix Seasonic FOCUS GX-750 (80+ Gold),PC_-2023-seasonic-focus-gx-750-80-gold,lookup,fr
+Q00795,je cherche FOCUS GX-750 (80+ Gold),PC_-2023-seasonic-focus-gx-750-80-gold,lookup,fr
+Q00796,alternative à FOCUS GX-750 (80+ Gold),PC_-2023-seasonic-focus-gx-750-80-gold,compare,en
+Q00797,FOCUS GX-750 (80+ Gold) fiche technique,PC_-2023-seasonic-focus-gx-750-80-gold,lookup,fr
+Q00798,Seasonic FOCUS GX-750 (80+ Gold) specs,PC_-2023-seasonic-focus-gx-750-80-gold,lookup,en
+Q00799,best price Seasonic FOCUS GX-750 (80+ Gold),PC_-2023-seasonic-focus-gx-750-80-gold,lookup,en
+Q00800,compare Seasonic FOCUS GX-750 (80+ Gold),PC_-2023-seasonic-focus-gx-750-80-gold,compare,en
+Q00801,NZXT H5 Flow,PC_-2023-nzxt-h5-flow,lookup,en
+Q00802,NZXT H5 Flow 2023,PC_-2023-nzxt-h5-flow,lookup,en
+Q00803,H5 Flow NZXT,PC_-2023-nzxt-h5-flow,lookup,en
+Q00804,prix NZXT H5 Flow,PC_-2023-nzxt-h5-flow,lookup,fr
+Q00805,je cherche H5 Flow,PC_-2023-nzxt-h5-flow,lookup,fr
+Q00806,alternative à H5 Flow,PC_-2023-nzxt-h5-flow,compare,en
+Q00807,H5 Flow fiche technique,PC_-2023-nzxt-h5-flow,lookup,fr
+Q00808,NZXT H5 Flow specs,PC_-2023-nzxt-h5-flow,lookup,en
+Q00809,best price NZXT H5 Flow,PC_-2023-nzxt-h5-flow,lookup,en
+Q00810,compare NZXT H5 Flow,PC_-2023-nzxt-h5-flow,compare,en
+Q00811,Crucial T500 1TB NVMe,PC_-2024-crucial-t500-1tb-nvme,lookup,en
+Q00812,Crucial T500 1TB NVMe 2024,PC_-2024-crucial-t500-1tb-nvme,lookup,en
+Q00813,T500 1TB NVMe Crucial,PC_-2024-crucial-t500-1tb-nvme,lookup,en
+Q00814,prix Crucial T500 1TB NVMe,PC_-2024-crucial-t500-1tb-nvme,lookup,fr
+Q00815,je cherche T500 1TB NVMe,PC_-2024-crucial-t500-1tb-nvme,lookup,fr
+Q00816,alternative à T500 1TB NVMe,PC_-2024-crucial-t500-1tb-nvme,compare,en
+Q00817,T500 1TB NVMe fiche technique,PC_-2024-crucial-t500-1tb-nvme,lookup,fr
+Q00818,Crucial T500 1TB NVMe specs,PC_-2024-crucial-t500-1tb-nvme,lookup,en
+Q00819,best price Crucial T500 1TB NVMe,PC_-2024-crucial-t500-1tb-nvme,lookup,en
+Q00820,compare Crucial T500 1TB NVMe,PC_-2024-crucial-t500-1tb-nvme,compare,en
+Q00821,Corsair RM850e (80+ Gold),PC_-2024-corsair-rm850e-80-gold,lookup,en
+Q00822,Corsair RM850e (80+ Gold) 2024,PC_-2024-corsair-rm850e-80-gold,lookup,en
+Q00823,RM850e (80+ Gold) Corsair,PC_-2024-corsair-rm850e-80-gold,lookup,en
+Q00824,prix Corsair RM850e (80+ Gold),PC_-2024-corsair-rm850e-80-gold,lookup,fr
+Q00825,je cherche RM850e (80+ Gold),PC_-2024-corsair-rm850e-80-gold,lookup,fr
+Q00826,alternative à RM850e (80+ Gold),PC_-2024-corsair-rm850e-80-gold,compare,en
+Q00827,RM850e (80+ Gold) fiche technique,PC_-2024-corsair-rm850e-80-gold,lookup,fr
+Q00828,Corsair RM850e (80+ Gold) specs,PC_-2024-corsair-rm850e-80-gold,lookup,en
+Q00829,best price Corsair RM850e (80+ Gold),PC_-2024-corsair-rm850e-80-gold,lookup,en
+Q00830,compare Corsair RM850e (80+ Gold),PC_-2024-corsair-rm850e-80-gold,compare,en
+Q00831,G.Skill Trident Z5 DDR5 32GB 6400,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,lookup,en
+Q00832,G.Skill Trident Z5 DDR5 32GB 6400 2024,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,lookup,en
+Q00833,Trident Z5 DDR5 32GB 6400 G.Skill,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,lookup,en
+Q00834,prix G.Skill Trident Z5 DDR5 32GB 6400,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,lookup,fr
+Q00835,je cherche Trident Z5 DDR5 32GB 6400,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,lookup,fr
+Q00836,alternative à Trident Z5 DDR5 32GB 6400,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,compare,en
+Q00837,Trident Z5 DDR5 32GB 6400 fiche technique,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,lookup,fr
+Q00838,G.Skill Trident Z5 DDR5 32GB 6400 specs,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,lookup,en
+Q00839,best price G.Skill Trident Z5 DDR5 32GB 6400,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,lookup,en
+Q00840,compare G.Skill Trident Z5 DDR5 32GB 6400,PC_-2024-g-skill-trident-z5-ddr5-32gb-6400,compare,en
+Q00841,Lian Li Lancool 216,PC_-2024-lian-li-lancool-216,lookup,en
+Q00842,Lian Li Lancool 216 2024,PC_-2024-lian-li-lancool-216,lookup,en
+Q00843,Lancool 216 Lian Li,PC_-2024-lian-li-lancool-216,lookup,en
+Q00844,prix Lian Li Lancool 216,PC_-2024-lian-li-lancool-216,lookup,fr
+Q00845,je cherche Lancool 216,PC_-2024-lian-li-lancool-216,lookup,fr
+Q00846,alternative à Lancool 216,PC_-2024-lian-li-lancool-216,compare,en
+Q00847,Lancool 216 fiche technique,PC_-2024-lian-li-lancool-216,lookup,fr
+Q00848,Lian Li Lancool 216 specs,PC_-2024-lian-li-lancool-216,lookup,en
+Q00849,best price Lian Li Lancool 216,PC_-2024-lian-li-lancool-216,lookup,en
+Q00850,compare Lian Li Lancool 216,PC_-2024-lian-li-lancool-216,compare,en
+Q00851,Samsung 990 EVO 2TB NVMe,PC_-2025-samsung-990-evo-2tb-nvme,lookup,en
+Q00852,Samsung 990 EVO 2TB NVMe 2025,PC_-2025-samsung-990-evo-2tb-nvme,lookup,en
+Q00853,990 EVO 2TB NVMe Samsung,PC_-2025-samsung-990-evo-2tb-nvme,lookup,en
+Q00854,prix Samsung 990 EVO 2TB NVMe,PC_-2025-samsung-990-evo-2tb-nvme,lookup,fr
+Q00855,je cherche 990 EVO 2TB NVMe,PC_-2025-samsung-990-evo-2tb-nvme,lookup,fr
+Q00856,alternative à 990 EVO 2TB NVMe,PC_-2025-samsung-990-evo-2tb-nvme,compare,en
+Q00857,990 EVO 2TB NVMe fiche technique,PC_-2025-samsung-990-evo-2tb-nvme,lookup,fr
+Q00858,Samsung 990 EVO 2TB NVMe specs,PC_-2025-samsung-990-evo-2tb-nvme,lookup,en
+Q00859,best price Samsung 990 EVO 2TB NVMe,PC_-2025-samsung-990-evo-2tb-nvme,lookup,en
+Q00860,compare Samsung 990 EVO 2TB NVMe,PC_-2025-samsung-990-evo-2tb-nvme,compare,en
+Q00861,Corsair iCUE LINK H150i (360mm),PC_-2025-corsair-icue-link-h150i-360mm,lookup,en
+Q00862,Corsair iCUE LINK H150i (360mm) 2025,PC_-2025-corsair-icue-link-h150i-360mm,lookup,en
+Q00863,iCUE LINK H150i (360mm) Corsair,PC_-2025-corsair-icue-link-h150i-360mm,lookup,en
+Q00864,prix Corsair iCUE LINK H150i (360mm),PC_-2025-corsair-icue-link-h150i-360mm,lookup,fr
+Q00865,je cherche iCUE LINK H150i (360mm),PC_-2025-corsair-icue-link-h150i-360mm,lookup,fr
+Q00866,alternative à iCUE LINK H150i (360mm),PC_-2025-corsair-icue-link-h150i-360mm,compare,en
+Q00867,iCUE LINK H150i (360mm) fiche technique,PC_-2025-corsair-icue-link-h150i-360mm,lookup,fr
+Q00868,Corsair iCUE LINK H150i (360mm) specs,PC_-2025-corsair-icue-link-h150i-360mm,lookup,en
+Q00869,best price Corsair iCUE LINK H150i (360mm),PC_-2025-corsair-icue-link-h150i-360mm,lookup,en
+Q00870,compare Corsair iCUE LINK H150i (360mm),PC_-2025-corsair-icue-link-h150i-360mm,compare,en
+Q00871,be quiet! Pure Power 12 M 850W,PC_-2025-be-quiet-pure-power-12-m-850w,lookup,en
+Q00872,be quiet! Pure Power 12 M 850W 2025,PC_-2025-be-quiet-pure-power-12-m-850w,lookup,en
+Q00873,Pure Power 12 M 850W be quiet!,PC_-2025-be-quiet-pure-power-12-m-850w,lookup,en
+Q00874,prix be quiet! Pure Power 12 M 850W,PC_-2025-be-quiet-pure-power-12-m-850w,lookup,fr
+Q00875,je cherche Pure Power 12 M 850W,PC_-2025-be-quiet-pure-power-12-m-850w,lookup,fr
+Q00876,alternative à Pure Power 12 M 850W,PC_-2025-be-quiet-pure-power-12-m-850w,compare,en
+Q00877,Pure Power 12 M 850W fiche technique,PC_-2025-be-quiet-pure-power-12-m-850w,lookup,fr
+Q00878,be quiet! Pure Power 12 M 850W specs,PC_-2025-be-quiet-pure-power-12-m-850w,lookup,en
+Q00879,best price be quiet! Pure Power 12 M 850W,PC_-2025-be-quiet-pure-power-12-m-850w,lookup,en
+Q00880,compare be quiet! Pure Power 12 M 850W,PC_-2025-be-quiet-pure-power-12-m-850w,compare,en
+Q00881,Kingston FURY Beast DDR5 64GB 6000,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,lookup,en
+Q00882,Kingston FURY Beast DDR5 64GB 6000 2025,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,lookup,en
+Q00883,FURY Beast DDR5 64GB 6000 Kingston,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,lookup,en
+Q00884,prix Kingston FURY Beast DDR5 64GB 6000,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,lookup,fr
+Q00885,je cherche FURY Beast DDR5 64GB 6000,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,lookup,fr
+Q00886,alternative à FURY Beast DDR5 64GB 6000,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,compare,en
+Q00887,FURY Beast DDR5 64GB 6000 fiche technique,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,lookup,fr
+Q00888,Kingston FURY Beast DDR5 64GB 6000 specs,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,lookup,en
+Q00889,best price Kingston FURY Beast DDR5 64GB 6000,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,lookup,en
+Q00890,compare Kingston FURY Beast DDR5 64GB 6000,PC_-2025-kingston-fury-beast-ddr5-64gb-6000,compare,en
+Q00891,Bosch Wiper Blades Aerotwin,CAR-2025-bosch-wiper-blades-aerotwin,lookup,en
+Q00892,Bosch Wiper Blades Aerotwin 2025,CAR-2025-bosch-wiper-blades-aerotwin,lookup,en
+Q00893,Wiper Blades Aerotwin Bosch,CAR-2025-bosch-wiper-blades-aerotwin,lookup,en
+Q00894,prix Bosch Wiper Blades Aerotwin,CAR-2025-bosch-wiper-blades-aerotwin,lookup,fr
+Q00895,je cherche Wiper Blades Aerotwin,CAR-2025-bosch-wiper-blades-aerotwin,lookup,fr
+Q00896,alternative à Wiper Blades Aerotwin,CAR-2025-bosch-wiper-blades-aerotwin,compare,en
+Q00897,Wiper Blades Aerotwin fiche technique,CAR-2025-bosch-wiper-blades-aerotwin,lookup,fr
+Q00898,Bosch Wiper Blades Aerotwin specs,CAR-2025-bosch-wiper-blades-aerotwin,lookup,en
+Q00899,best price Bosch Wiper Blades Aerotwin,CAR-2025-bosch-wiper-blades-aerotwin,lookup,en
+Q00900,compare Bosch Wiper Blades Aerotwin,CAR-2025-bosch-wiper-blades-aerotwin,compare,en
+Q00901,Bosch Spark Plugs,CAR-2025-bosch-spark-plugs,lookup,en
+Q00902,Bosch Spark Plugs 2025,CAR-2025-bosch-spark-plugs,lookup,en
+Q00903,Spark Plugs Bosch,CAR-2025-bosch-spark-plugs,lookup,en
+Q00904,prix Bosch Spark Plugs,CAR-2025-bosch-spark-plugs,lookup,fr
+Q00905,je cherche Spark Plugs,CAR-2025-bosch-spark-plugs,lookup,fr
+Q00906,alternative à Spark Plugs,CAR-2025-bosch-spark-plugs,compare,en
+Q00907,Spark Plugs fiche technique,CAR-2025-bosch-spark-plugs,lookup,fr
+Q00908,Bosch Spark Plugs specs,CAR-2025-bosch-spark-plugs,lookup,en
+Q00909,best price Bosch Spark Plugs,CAR-2025-bosch-spark-plugs,lookup,en
+Q00910,compare Bosch Spark Plugs,CAR-2025-bosch-spark-plugs,compare,en
+Q00911,NGK Iridium Spark Plugs,CAR-2025-ngk-iridium-spark-plugs,lookup,en
+Q00912,NGK Iridium Spark Plugs 2025,CAR-2025-ngk-iridium-spark-plugs,lookup,en
+Q00913,Iridium Spark Plugs NGK,CAR-2025-ngk-iridium-spark-plugs,lookup,en
+Q00914,prix NGK Iridium Spark Plugs,CAR-2025-ngk-iridium-spark-plugs,lookup,fr
+Q00915,je cherche Iridium Spark Plugs,CAR-2025-ngk-iridium-spark-plugs,lookup,fr
+Q00916,alternative à Iridium Spark Plugs,CAR-2025-ngk-iridium-spark-plugs,compare,en
+Q00917,Iridium Spark Plugs fiche technique,CAR-2025-ngk-iridium-spark-plugs,lookup,fr
+Q00918,NGK Iridium Spark Plugs specs,CAR-2025-ngk-iridium-spark-plugs,lookup,en
+Q00919,best price NGK Iridium Spark Plugs,CAR-2025-ngk-iridium-spark-plugs,lookup,en
+Q00920,compare NGK Iridium Spark Plugs,CAR-2025-ngk-iridium-spark-plugs,compare,en
+Q00921,Denso Oxygen Sensor,CAR-2025-denso-oxygen-sensor,lookup,en
+Q00922,Denso Oxygen Sensor 2025,CAR-2025-denso-oxygen-sensor,lookup,en
+Q00923,Oxygen Sensor Denso,CAR-2025-denso-oxygen-sensor,lookup,en
+Q00924,prix Denso Oxygen Sensor,CAR-2025-denso-oxygen-sensor,lookup,fr
+Q00925,je cherche Oxygen Sensor,CAR-2025-denso-oxygen-sensor,lookup,fr
+Q00926,alternative à Oxygen Sensor,CAR-2025-denso-oxygen-sensor,compare,en
+Q00927,Oxygen Sensor fiche technique,CAR-2025-denso-oxygen-sensor,lookup,fr
+Q00928,Denso Oxygen Sensor specs,CAR-2025-denso-oxygen-sensor,lookup,en
+Q00929,best price Denso Oxygen Sensor,CAR-2025-denso-oxygen-sensor,lookup,en
+Q00930,compare Denso Oxygen Sensor,CAR-2025-denso-oxygen-sensor,compare,en
+Q00931,Valeo Clutch Kit,CAR-2025-valeo-clutch-kit,lookup,en
+Q00932,Valeo Clutch Kit 2025,CAR-2025-valeo-clutch-kit,lookup,en
+Q00933,Clutch Kit Valeo,CAR-2025-valeo-clutch-kit,lookup,en
+Q00934,prix Valeo Clutch Kit,CAR-2025-valeo-clutch-kit,lookup,fr
+Q00935,je cherche Clutch Kit,CAR-2025-valeo-clutch-kit,lookup,fr
+Q00936,alternative à Clutch Kit,CAR-2025-valeo-clutch-kit,compare,en
+Q00937,Clutch Kit fiche technique,CAR-2025-valeo-clutch-kit,lookup,fr
+Q00938,Valeo Clutch Kit specs,CAR-2025-valeo-clutch-kit,lookup,en
+Q00939,best price Valeo Clutch Kit,CAR-2025-valeo-clutch-kit,lookup,en
+Q00940,compare Valeo Clutch Kit,CAR-2025-valeo-clutch-kit,compare,en
+Q00941,Brembo Brake Pads Set,CAR-2025-brembo-brake-pads-set,lookup,en
+Q00942,Brembo Brake Pads Set 2025,CAR-2025-brembo-brake-pads-set,lookup,en
+Q00943,Brake Pads Set Brembo,CAR-2025-brembo-brake-pads-set,lookup,en
+Q00944,prix Brembo Brake Pads Set,CAR-2025-brembo-brake-pads-set,lookup,fr
+Q00945,je cherche Brake Pads Set,CAR-2025-brembo-brake-pads-set,lookup,fr
+Q00946,alternative à Brake Pads Set,CAR-2025-brembo-brake-pads-set,compare,en
+Q00947,Brake Pads Set fiche technique,CAR-2025-brembo-brake-pads-set,lookup,fr
+Q00948,Brembo Brake Pads Set specs,CAR-2025-brembo-brake-pads-set,lookup,en
+Q00949,best price Brembo Brake Pads Set,CAR-2025-brembo-brake-pads-set,lookup,en
+Q00950,compare Brembo Brake Pads Set,CAR-2025-brembo-brake-pads-set,compare,en
+Q00951,ATE Brake Discs Pair,CAR-2025-ate-brake-discs-pair,lookup,en
+Q00952,ATE Brake Discs Pair 2025,CAR-2025-ate-brake-discs-pair,lookup,en
+Q00953,Brake Discs Pair ATE,CAR-2025-ate-brake-discs-pair,lookup,en
+Q00954,prix ATE Brake Discs Pair,CAR-2025-ate-brake-discs-pair,lookup,fr
+Q00955,je cherche Brake Discs Pair,CAR-2025-ate-brake-discs-pair,lookup,fr
+Q00956,alternative à Brake Discs Pair,CAR-2025-ate-brake-discs-pair,compare,en
+Q00957,Brake Discs Pair fiche technique,CAR-2025-ate-brake-discs-pair,lookup,fr
+Q00958,ATE Brake Discs Pair specs,CAR-2025-ate-brake-discs-pair,lookup,en
+Q00959,best price ATE Brake Discs Pair,CAR-2025-ate-brake-discs-pair,lookup,en
+Q00960,compare ATE Brake Discs Pair,CAR-2025-ate-brake-discs-pair,compare,en
+Q00961,MANN-FILTER Oil Filter,CAR-2025-mann-filter-oil-filter,lookup,en
+Q00962,MANN-FILTER Oil Filter 2025,CAR-2025-mann-filter-oil-filter,lookup,en
+Q00963,Oil Filter MANN-FILTER,CAR-2025-mann-filter-oil-filter,lookup,en
+Q00964,prix MANN-FILTER Oil Filter,CAR-2025-mann-filter-oil-filter,lookup,fr
+Q00965,je cherche Oil Filter,CAR-2025-mann-filter-oil-filter,lookup,fr
+Q00966,alternative à Oil Filter,CAR-2025-mann-filter-oil-filter,compare,en
+Q00967,Oil Filter fiche technique,CAR-2025-mann-filter-oil-filter,lookup,fr
+Q00968,MANN-FILTER Oil Filter specs,CAR-2025-mann-filter-oil-filter,lookup,en
+Q00969,best price MANN-FILTER Oil Filter,CAR-2025-mann-filter-oil-filter,lookup,en
+Q00970,compare MANN-FILTER Oil Filter,CAR-2025-mann-filter-oil-filter,compare,en
+Q00971,Mahle Air Filter,CAR-2025-mahle-air-filter,lookup,en
+Q00972,Mahle Air Filter 2025,CAR-2025-mahle-air-filter,lookup,en
+Q00973,Air Filter Mahle,CAR-2025-mahle-air-filter,lookup,en
+Q00974,prix Mahle Air Filter,CAR-2025-mahle-air-filter,lookup,fr
+Q00975,je cherche Air Filter,CAR-2025-mahle-air-filter,lookup,fr
+Q00976,alternative à Air Filter,CAR-2025-mahle-air-filter,compare,en
+Q00977,Air Filter fiche technique,CAR-2025-mahle-air-filter,lookup,fr
+Q00978,Mahle Air Filter specs,CAR-2025-mahle-air-filter,lookup,en
+Q00979,best price Mahle Air Filter,CAR-2025-mahle-air-filter,lookup,en
+Q00980,compare Mahle Air Filter,CAR-2025-mahle-air-filter,compare,en
+Q00981,Philips H7 Headlight Bulbs,CAR-2025-philips-h7-headlight-bulbs,lookup,en
+Q00982,Philips H7 Headlight Bulbs 2025,CAR-2025-philips-h7-headlight-bulbs,lookup,en
+Q00983,H7 Headlight Bulbs Philips,CAR-2025-philips-h7-headlight-bulbs,lookup,en
+Q00984,prix Philips H7 Headlight Bulbs,CAR-2025-philips-h7-headlight-bulbs,lookup,fr
+Q00985,je cherche H7 Headlight Bulbs,CAR-2025-philips-h7-headlight-bulbs,lookup,fr
+Q00986,alternative à H7 Headlight Bulbs,CAR-2025-philips-h7-headlight-bulbs,compare,en
+Q00987,H7 Headlight Bulbs fiche technique,CAR-2025-philips-h7-headlight-bulbs,lookup,fr
+Q00988,Philips H7 Headlight Bulbs specs,CAR-2025-philips-h7-headlight-bulbs,lookup,en
+Q00989,best price Philips H7 Headlight Bulbs,CAR-2025-philips-h7-headlight-bulbs,lookup,en
+Q00990,compare Philips H7 Headlight Bulbs,CAR-2025-philips-h7-headlight-bulbs,compare,en
+Q00991,Osram Night Breaker H4 Bulbs,CAR-2025-osram-night-breaker-h4-bulbs,lookup,en
+Q00992,Osram Night Breaker H4 Bulbs 2025,CAR-2025-osram-night-breaker-h4-bulbs,lookup,en
+Q00993,Night Breaker H4 Bulbs Osram,CAR-2025-osram-night-breaker-h4-bulbs,lookup,en
+Q00994,prix Osram Night Breaker H4 Bulbs,CAR-2025-osram-night-breaker-h4-bulbs,lookup,fr
+Q00995,je cherche Night Breaker H4 Bulbs,CAR-2025-osram-night-breaker-h4-bulbs,lookup,fr
+Q00996,alternative à Night Breaker H4 Bulbs,CAR-2025-osram-night-breaker-h4-bulbs,compare,en
+Q00997,Night Breaker H4 Bulbs fiche technique,CAR-2025-osram-night-breaker-h4-bulbs,lookup,fr
+Q00998,Osram Night Breaker H4 Bulbs specs,CAR-2025-osram-night-breaker-h4-bulbs,lookup,en
+Q00999,best price Osram Night Breaker H4 Bulbs,CAR-2025-osram-night-breaker-h4-bulbs,lookup,en
+Q01000,compare Osram Night Breaker H4 Bulbs,CAR-2025-osram-night-breaker-h4-bulbs,compare,en
+Q01001,SKF Wheel Bearing Kit,CAR-2025-skf-wheel-bearing-kit,lookup,en
+Q01002,SKF Wheel Bearing Kit 2025,CAR-2025-skf-wheel-bearing-kit,lookup,en
+Q01003,Wheel Bearing Kit SKF,CAR-2025-skf-wheel-bearing-kit,lookup,en
+Q01004,prix SKF Wheel Bearing Kit,CAR-2025-skf-wheel-bearing-kit,lookup,fr
+Q01005,je cherche Wheel Bearing Kit,CAR-2025-skf-wheel-bearing-kit,lookup,fr
+Q01006,alternative à Wheel Bearing Kit,CAR-2025-skf-wheel-bearing-kit,compare,en
+Q01007,Wheel Bearing Kit fiche technique,CAR-2025-skf-wheel-bearing-kit,lookup,fr
+Q01008,SKF Wheel Bearing Kit specs,CAR-2025-skf-wheel-bearing-kit,lookup,en
+Q01009,best price SKF Wheel Bearing Kit,CAR-2025-skf-wheel-bearing-kit,lookup,en
+Q01010,compare SKF Wheel Bearing Kit,CAR-2025-skf-wheel-bearing-kit,compare,en
+Q01011,Continental Timing Belt Kit,CAR-2025-continental-timing-belt-kit,lookup,en
+Q01012,Continental Timing Belt Kit 2025,CAR-2025-continental-timing-belt-kit,lookup,en
+Q01013,Timing Belt Kit Continental,CAR-2025-continental-timing-belt-kit,lookup,en
+Q01014,prix Continental Timing Belt Kit,CAR-2025-continental-timing-belt-kit,lookup,fr
+Q01015,je cherche Timing Belt Kit,CAR-2025-continental-timing-belt-kit,lookup,fr
+Q01016,alternative à Timing Belt Kit,CAR-2025-continental-timing-belt-kit,compare,en
+Q01017,Timing Belt Kit fiche technique,CAR-2025-continental-timing-belt-kit,lookup,fr
+Q01018,Continental Timing Belt Kit specs,CAR-2025-continental-timing-belt-kit,lookup,en
+Q01019,best price Continental Timing Belt Kit,CAR-2025-continental-timing-belt-kit,lookup,en
+Q01020,compare Continental Timing Belt Kit,CAR-2025-continental-timing-belt-kit,compare,en
+Q01021,Gates Serpentine Belt,CAR-2025-gates-serpentine-belt,lookup,en
+Q01022,Gates Serpentine Belt 2025,CAR-2025-gates-serpentine-belt,lookup,en
+Q01023,Serpentine Belt Gates,CAR-2025-gates-serpentine-belt,lookup,en
+Q01024,prix Gates Serpentine Belt,CAR-2025-gates-serpentine-belt,lookup,fr
+Q01025,je cherche Serpentine Belt,CAR-2025-gates-serpentine-belt,lookup,fr
+Q01026,alternative à Serpentine Belt,CAR-2025-gates-serpentine-belt,compare,en
+Q01027,Serpentine Belt fiche technique,CAR-2025-gates-serpentine-belt,lookup,fr
+Q01028,Gates Serpentine Belt specs,CAR-2025-gates-serpentine-belt,lookup,en
+Q01029,best price Gates Serpentine Belt,CAR-2025-gates-serpentine-belt,lookup,en
+Q01030,compare Gates Serpentine Belt,CAR-2025-gates-serpentine-belt,compare,en
+Q01031,Monroe Shock Absorbers (pair),CAR-2025-monroe-shock-absorbers-pair,lookup,en
+Q01032,Monroe Shock Absorbers (pair) 2025,CAR-2025-monroe-shock-absorbers-pair,lookup,en
+Q01033,Shock Absorbers (pair) Monroe,CAR-2025-monroe-shock-absorbers-pair,lookup,en
+Q01034,prix Monroe Shock Absorbers (pair),CAR-2025-monroe-shock-absorbers-pair,lookup,fr
+Q01035,je cherche Shock Absorbers (pair),CAR-2025-monroe-shock-absorbers-pair,lookup,fr
+Q01036,alternative à Shock Absorbers (pair),CAR-2025-monroe-shock-absorbers-pair,compare,en
+Q01037,Shock Absorbers (pair) fiche technique,CAR-2025-monroe-shock-absorbers-pair,lookup,fr
+Q01038,Monroe Shock Absorbers (pair) specs,CAR-2025-monroe-shock-absorbers-pair,lookup,en
+Q01039,best price Monroe Shock Absorbers (pair),CAR-2025-monroe-shock-absorbers-pair,lookup,en
+Q01040,compare Monroe Shock Absorbers (pair),CAR-2025-monroe-shock-absorbers-pair,compare,en
+Q01041,KYB Struts (pair),CAR-2025-kyb-struts-pair,lookup,en
+Q01042,KYB Struts (pair) 2025,CAR-2025-kyb-struts-pair,lookup,en
+Q01043,Struts (pair) KYB,CAR-2025-kyb-struts-pair,lookup,en
+Q01044,prix KYB Struts (pair),CAR-2025-kyb-struts-pair,lookup,fr
+Q01045,je cherche Struts (pair),CAR-2025-kyb-struts-pair,lookup,fr
+Q01046,alternative à Struts (pair),CAR-2025-kyb-struts-pair,compare,en
+Q01047,Struts (pair) fiche technique,CAR-2025-kyb-struts-pair,lookup,fr
+Q01048,KYB Struts (pair) specs,CAR-2025-kyb-struts-pair,lookup,en
+Q01049,best price KYB Struts (pair),CAR-2025-kyb-struts-pair,lookup,en
+Q01050,compare KYB Struts (pair),CAR-2025-kyb-struts-pair,compare,en
+Q01051,ACDelco Car Battery 12V,CAR-2025-acdelco-car-battery-12v,lookup,en
+Q01052,ACDelco Car Battery 12V 2025,CAR-2025-acdelco-car-battery-12v,lookup,en
+Q01053,Car Battery 12V ACDelco,CAR-2025-acdelco-car-battery-12v,lookup,en
+Q01054,prix ACDelco Car Battery 12V,CAR-2025-acdelco-car-battery-12v,lookup,fr
+Q01055,je cherche Car Battery 12V,CAR-2025-acdelco-car-battery-12v,lookup,fr
+Q01056,alternative à Car Battery 12V,CAR-2025-acdelco-car-battery-12v,compare,en
+Q01057,Car Battery 12V fiche technique,CAR-2025-acdelco-car-battery-12v,lookup,fr
+Q01058,ACDelco Car Battery 12V specs,CAR-2025-acdelco-car-battery-12v,lookup,en
+Q01059,best price ACDelco Car Battery 12V,CAR-2025-acdelco-car-battery-12v,lookup,en
+Q01060,compare ACDelco Car Battery 12V,CAR-2025-acdelco-car-battery-12v,compare,en
+Q01061,Bosch Alternator,CAR-2025-bosch-alternator,lookup,en
+Q01062,Bosch Alternator 2025,CAR-2025-bosch-alternator,lookup,en
+Q01063,Alternator Bosch,CAR-2025-bosch-alternator,lookup,en
+Q01064,prix Bosch Alternator,CAR-2025-bosch-alternator,lookup,fr
+Q01065,je cherche Alternator,CAR-2025-bosch-alternator,lookup,fr
+Q01066,alternative à Alternator,CAR-2025-bosch-alternator,compare,en
+Q01067,Alternator fiche technique,CAR-2025-bosch-alternator,lookup,fr
+Q01068,Bosch Alternator specs,CAR-2025-bosch-alternator,lookup,en
+Q01069,best price Bosch Alternator,CAR-2025-bosch-alternator,lookup,en
+Q01070,compare Bosch Alternator,CAR-2025-bosch-alternator,compare,en
+Q01071,Bosch Starter Motor,CAR-2025-bosch-starter-motor,lookup,en
+Q01072,Bosch Starter Motor 2025,CAR-2025-bosch-starter-motor,lookup,en
+Q01073,Starter Motor Bosch,CAR-2025-bosch-starter-motor,lookup,en
+Q01074,prix Bosch Starter Motor,CAR-2025-bosch-starter-motor,lookup,fr
+Q01075,je cherche Starter Motor,CAR-2025-bosch-starter-motor,lookup,fr
+Q01076,alternative à Starter Motor,CAR-2025-bosch-starter-motor,compare,en
+Q01077,Starter Motor fiche technique,CAR-2025-bosch-starter-motor,lookup,fr
+Q01078,Bosch Starter Motor specs,CAR-2025-bosch-starter-motor,lookup,en
+Q01079,best price Bosch Starter Motor,CAR-2025-bosch-starter-motor,lookup,en
+Q01080,compare Bosch Starter Motor,CAR-2025-bosch-starter-motor,compare,en
+Q01081,Febi Bilstein Engine Mount,CAR-2025-febi-bilstein-engine-mount,lookup,en
+Q01082,Febi Bilstein Engine Mount 2025,CAR-2025-febi-bilstein-engine-mount,lookup,en
+Q01083,Engine Mount Febi Bilstein,CAR-2025-febi-bilstein-engine-mount,lookup,en
+Q01084,prix Febi Bilstein Engine Mount,CAR-2025-febi-bilstein-engine-mount,lookup,fr
+Q01085,je cherche Engine Mount,CAR-2025-febi-bilstein-engine-mount,lookup,fr
+Q01086,alternative à Engine Mount,CAR-2025-febi-bilstein-engine-mount,compare,en
+Q01087,Engine Mount fiche technique,CAR-2025-febi-bilstein-engine-mount,lookup,fr
+Q01088,Febi Bilstein Engine Mount specs,CAR-2025-febi-bilstein-engine-mount,lookup,en
+Q01089,best price Febi Bilstein Engine Mount,CAR-2025-febi-bilstein-engine-mount,lookup,en
+Q01090,compare Febi Bilstein Engine Mount,CAR-2025-febi-bilstein-engine-mount,compare,en
+Q01091,Liqui Moly Engine Oil 5W-30,CAR-2025-liqui-moly-engine-oil-5w-30,lookup,en
+Q01092,Liqui Moly Engine Oil 5W-30 2025,CAR-2025-liqui-moly-engine-oil-5w-30,lookup,en
+Q01093,Engine Oil 5W-30 Liqui Moly,CAR-2025-liqui-moly-engine-oil-5w-30,lookup,en
+Q01094,prix Liqui Moly Engine Oil 5W-30,CAR-2025-liqui-moly-engine-oil-5w-30,lookup,fr
+Q01095,je cherche Engine Oil 5W-30,CAR-2025-liqui-moly-engine-oil-5w-30,lookup,fr
+Q01096,alternative à Engine Oil 5W-30,CAR-2025-liqui-moly-engine-oil-5w-30,compare,en
+Q01097,Engine Oil 5W-30 fiche technique,CAR-2025-liqui-moly-engine-oil-5w-30,lookup,fr
+Q01098,Liqui Moly Engine Oil 5W-30 specs,CAR-2025-liqui-moly-engine-oil-5w-30,lookup,en
+Q01099,best price Liqui Moly Engine Oil 5W-30,CAR-2025-liqui-moly-engine-oil-5w-30,lookup,en
+Q01100,compare Liqui Moly Engine Oil 5W-30,CAR-2025-liqui-moly-engine-oil-5w-30,compare,en
+Q01101,Castrol Brake Fluid DOT 4,CAR-2025-castrol-brake-fluid-dot-4,lookup,en
+Q01102,Castrol Brake Fluid DOT 4 2025,CAR-2025-castrol-brake-fluid-dot-4,lookup,en
+Q01103,Brake Fluid DOT 4 Castrol,CAR-2025-castrol-brake-fluid-dot-4,lookup,en
+Q01104,prix Castrol Brake Fluid DOT 4,CAR-2025-castrol-brake-fluid-dot-4,lookup,fr
+Q01105,je cherche Brake Fluid DOT 4,CAR-2025-castrol-brake-fluid-dot-4,lookup,fr
+Q01106,alternative à Brake Fluid DOT 4,CAR-2025-castrol-brake-fluid-dot-4,compare,en
+Q01107,Brake Fluid DOT 4 fiche technique,CAR-2025-castrol-brake-fluid-dot-4,lookup,fr
+Q01108,Castrol Brake Fluid DOT 4 specs,CAR-2025-castrol-brake-fluid-dot-4,lookup,en
+Q01109,best price Castrol Brake Fluid DOT 4,CAR-2025-castrol-brake-fluid-dot-4,lookup,en
+Q01110,compare Castrol Brake Fluid DOT 4,CAR-2025-castrol-brake-fluid-dot-4,compare,en

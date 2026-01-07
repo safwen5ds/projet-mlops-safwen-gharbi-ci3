@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NLP Semantic Search API</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --main-bg: #F5F2F2;
+            --content-text: #2B2A2A;
+            --primary-orange: #FEB05D;
+            --secondary-blue: #5A7ACD;
+            --glass-bg: rgba(255, 255, 255, 0.6);
+            --glass-border: rgba(43, 42, 42, 0.1);
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: var(--main-bg);
+            background-image:
+                radial-gradient(circle at 50% 0%, rgba(90, 122, 205, 0.2), transparent 60%);
+            color: var(--content-text);
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: auto;
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 0px;
+            padding: 40px;
+            box-shadow: 0 0 40px rgba(90, 122, 205, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: var(--secondary-blue);
+            font-size: 2.5rem;
+            letter-spacing: -1px;
+        }
+
+        p.subtitle {
+            text-align: center;
+            color: #4b4b4b;
+            margin-bottom: 40px;
+            font-weight: 400;
+        }
+
+        .input-group {
+            position: relative;
+            margin-bottom: 30px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 20px;
+            padding-right: 140px;
+            background: rgba(255, 255, 255, 0.8);
+            border: 1px solid var(--glass-border);
+            border-radius: 0px;
+            color: var(--content-text);
+            font-size: 1.1rem;
+            outline: none;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+            box-sizing: border-box;
+        }
+
+        input[type="text"]:focus {
+            border-color: var(--primary-orange);
+            box-shadow: 0 0 0 1px rgba(254, 176, 93, 0.4);
+        }
+
+        button {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            bottom: 10px;
+            padding: 0 30px;
+            border: none;
+            border-radius: 0px;
+            background: var(--primary-orange);
+            color: var(--content-text);
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease, opacity 0.2s ease;
+        }
+
+        button:hover {
+            opacity: 0.9;
+            transform: translateY(-1px);
+        }
+
+        button:active {
+            transform: translateY(1px);
+        }
+
+        #results {
+            margin-top: 30px;
+        }
+
+        .result-item {
+            background: rgba(255, 255, 255, 0.8);
+            border: 1px solid var(--glass-border);
+            border-radius: 0px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: transform 0.2s ease, background 0.2s ease;
+            animation: fadeIn 0.5s ease forwards;
+            opacity: 0;
+        }
+
+        .result-item:hover {
+            background: rgba(255, 255, 255, 1);
+            transform: scale(1.01);
+            border-color: var(--primary-orange);
+        }
+
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .score-badge {
+            background: var(--primary-orange);
+            color: var(--content-text);
+            padding: 4px 12px;
+            border-radius: 0px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            border: 1px solid var(--primary-orange);
+        }
+
+        .item-name {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: var(--content-text);
+        }
+
+        .explanation {
+            color: #4b4b4b;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .loading {
+            text-align: center;
+            color: var(--secondary-blue);
+            display: none;
+            font-weight: 600;
+        }
+
+        .error {
+            color: var(--primary-orange);
+            text-align: center;
+            padding: 20px;
+            background: rgba(254, 176, 93, 0.1);
+            border-radius: 0px;
+            border: 1px solid var(--primary-orange);
+            display: none;
+        }
+
+        footer {
+            padding: 20px;
+            text-align: center;
+            color: var(--content-text);
+            font-size: 0.9rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 12px;
+            background: rgba(255, 255, 255, 0.3);
+            width: 100%;
+            box-sizing: border-box;
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            border-top: 1px solid var(--glass-border);
+        }
+
+        footer span {
+            font-size: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Semantic Search</h1>
+        <p class="subtitle">Experience next-gen natural language matching</p>
+
+        <div class="input-group">
+            <input type="text" id="queryInput" placeholder="Enter product designation..." autocomplete="off">
+            <button onclick="performSearch()">Search</button>
+        </div>
+
+        <div id="loading" class="loading">Processing...</div>
+        <div id="error" class="error"></div>
+        <div id="results"></div>
+    </div>
+
+    <footer>
+        <span>Created by Safwen Gharbi CI3</span>
+        <span style="font-size: 1.5rem;">🇹🇳</span>
+    </footer>
+
+    <script>
+        const queryInput = document.getElementById('queryInput');
+
+        queryInput.addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                performSearch();
+            }
+        });
+
+        async function performSearch() {
+            const query = queryInput.value.trim();
+            if (!query) return;
+
+            const resultsDiv = document.getElementById('results');
+            const loadingDiv = document.getElementById('loading');
+            const errorDiv = document.getElementById('error');
+
+            resultsDiv.innerHTML = '';
+            errorDiv.style.display = 'none';
+            loadingDiv.style.display = 'block';
+
+            try {
+                const response = await fetch('/match', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        designation: query,
+                        top_k: 5
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error('API request failed');
+                }
+
+                const data = await response.json();
+                displayResults(data.results);
+            } catch (err) {
+                errorDiv.textContent = 'An error occurred while fetching results. Please try again.';
+                errorDiv.style.display = 'block';
+                console.error(err);
+            } finally {
+                loadingDiv.style.display = 'none';
+            }
+        }
+
+        function displayResults(results) {
+            const resultsDiv = document.getElementById('results');
+
+            if (!results || results.length === 0) {
+                resultsDiv.innerHTML = '<div style="text-align:center; color:#94a3b8; padding:20px;">No matches found.</div>';
+                return;
+            }
+
+            results.forEach((item, index) => {
+                const div = document.createElement('div');
+                div.className = 'result-item';
+                div.style.animationDelay = `${index * 100}ms`;
+
+                const scorePercent = (item.score * 100).toFixed(1);
+
+                div.innerHTML = `
+                    <div class="result-header">
+                        <div class="item-name">${item.official_name}</div>
+                        <div class="score-badge">${scorePercent}% Match</div>
+                    </div>
+                    <div class="explanation">${item.explanation}</div>
+                `;
+                resultsDiv.appendChild(div);
+            });
+        }
+    </script>
+</body>
+
+</html>
