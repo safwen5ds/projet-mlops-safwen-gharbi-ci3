@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 import os
 import pickle
-from typing import Dict, Iterable, List, Optional, Sequence
+from typing import Dict, Iterable, List, Optional
 
 import faiss
 import numpy as np
@@ -89,14 +89,18 @@ def build_index(
         pickle.dump(bm25, handle)
 
     item_ids = [record.get("item_id", "") for record in items]
-    with open(os.path.join(versioned_dir, "item_ids.json"), "w", encoding="utf-8") as handle:
+    with open(
+        os.path.join(versioned_dir, "item_ids.json"), "w", encoding="utf-8"
+    ) as handle:
         json.dump(item_ids, handle, indent=2)
 
     _write_jsonl(os.path.join(versioned_dir, "items.jsonl"), items)
     config.to_json(os.path.join(versioned_dir, "config.json"))
 
     meta = {"num_items": len(items), "embedding_dim": dim}
-    with open(os.path.join(versioned_dir, "index_meta.json"), "w", encoding="utf-8") as handle:
+    with open(
+        os.path.join(versioned_dir, "index_meta.json"), "w", encoding="utf-8"
+    ) as handle:
         json.dump(meta, handle, indent=2)
 
     return config

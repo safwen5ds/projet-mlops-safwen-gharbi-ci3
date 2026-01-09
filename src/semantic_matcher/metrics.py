@@ -1,9 +1,11 @@
 from __future__ import annotations
 
-from typing import Iterable, List, Sequence
+from typing import Sequence
 
 
-def recall_at_k(results: Sequence[Sequence[str]], truths: Sequence[str], k: int) -> float:
+def recall_at_k(
+    results: Sequence[Sequence[str]], truths: Sequence[str], k: int
+) -> float:
     if not results:
         return 0.0
     hits = 0
@@ -13,7 +15,9 @@ def recall_at_k(results: Sequence[Sequence[str]], truths: Sequence[str], k: int)
     return hits / float(len(results))
 
 
-def mean_reciprocal_rank(results: Sequence[Sequence[str]], truths: Sequence[str]) -> float:
+def mean_reciprocal_rank(
+    results: Sequence[Sequence[str]], truths: Sequence[str]
+) -> float:
     if not results:
         return 0.0
     total = 0.0

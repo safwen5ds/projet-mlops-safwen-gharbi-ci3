@@ -1,4 +1,3 @@
-import pytest
 from src.semantic_matcher.text_utils import normalize_text, tokenize
 
 
@@ -54,4 +53,3 @@ def test_tokenize_removes_noise():
 def test_tokenize_empty():
     assert tokenize("") == []
     assert tokenize("   ") == []
-

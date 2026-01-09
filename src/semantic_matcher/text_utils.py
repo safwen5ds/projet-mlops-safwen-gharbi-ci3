@@ -4,7 +4,6 @@ import re
 import unicodedata
 from typing import Iterable, List
 
-
 NOISE_TOKENS = {
     "price",
     "prix",

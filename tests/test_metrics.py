@@ -1,5 +1,6 @@
 import pytest
-from src.semantic_matcher.metrics import recall_at_k, mean_reciprocal_rank
+
+from src.semantic_matcher.metrics import mean_reciprocal_rank, recall_at_k
 
 
 def test_recall_at_k_perfect():
@@ -41,13 +42,17 @@ def test_mean_reciprocal_rank_perfect():
 def test_mean_reciprocal_rank_second_position():
     results = [["b", "a", "c"], ["x", "y", "z"]]
     truths = ["a", "x"]
-    assert mean_reciprocal_rank(results, truths) == pytest.approx((1.0 / 2.0 + 1.0) / 2.0)
+    assert mean_reciprocal_rank(results, truths) == pytest.approx(
+        (1.0 / 2.0 + 1.0) / 2.0
+    )
 
 
 def test_mean_reciprocal_rank_third_position():
     results = [["b", "c", "a"], ["x", "y", "z"]]
     truths = ["a", "x"]
-    assert mean_reciprocal_rank(results, truths) == pytest.approx((1.0 / 3.0 + 1.0) / 2.0)
+    assert mean_reciprocal_rank(results, truths) == pytest.approx(
+        (1.0 / 3.0 + 1.0) / 2.0
+    )
 
 
 def test_mean_reciprocal_rank_not_found():
@@ -65,4 +70,3 @@ def test_mean_reciprocal_rank_mixed():
     truths = ["a", "d", "g"]
     expected = (1.0 / 1.0 + 1.0 / 2.0 + 0.0) / 3.0
     assert mean_reciprocal_rank(results, truths) == pytest.approx(expected)
-

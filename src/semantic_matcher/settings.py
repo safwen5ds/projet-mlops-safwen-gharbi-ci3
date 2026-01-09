@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import os
 from pathlib import Path
-from typing import Optional
 
 from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
@@ -34,4 +33,3 @@ class AppSettings(BaseSettings):
 
 def get_settings() -> AppSettings:
     return AppSettings()
-

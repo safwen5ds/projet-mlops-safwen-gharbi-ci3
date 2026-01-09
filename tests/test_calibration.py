@@ -1,4 +1,5 @@
 import pytest
+
 from src.semantic_matcher.calibration import fit_sigmoid, sigmoid
 
 
@@ -63,4 +64,3 @@ def test_fit_sigmoid_small_example():
     pred_high = sigmoid(a * 0.8 + b)
     pred_low = sigmoid(a * 0.2 + b)
     assert pred_high > pred_low
-
