@@ -21,6 +21,6 @@ tumbs.db
 *.db
 *.sqlite
 
-# Generated files
+
 artifacts/
 *.log

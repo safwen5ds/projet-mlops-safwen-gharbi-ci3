@@ -1,8 +1,8 @@
-# Project 2: NLP Semantic Matching
-
+# Project 2: NLP Semantic Matching | MLOPS Project 2026
+Created By : Safwen Gharbi | CI3
 This project builds a hybrid semantic + lexical matcher for equipment designations. It
 creates a FAISS index for embeddings, a BM25 lexical fallback, and exposes a FastAPI
-endpoint for top-k matches with confidence.
+endpoint for top-k matches with confidence
 
 ## Quickstart
 
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 python scripts/build_index.py --catalogue catalogue.csv --output artifacts
 ```
 
-3) (Optional) Fit confidence calibration:
+3) Fit confidence calibration:
 ```
 python scripts/fit_calibration.py --queries queries.csv --artifacts artifacts
 ```
@@ -47,7 +47,7 @@ docker build \
   -t nlp-semantic-matcher .
 ```
 
-The API will be available at `http://localhost:8000`.
+The API will be available at `http://localhost:8000` and the ui at the same URl.
 
 ## API Usage
 
@@ -78,8 +78,8 @@ Artifacts are stored in `artifacts/`:
 
 ### For a New Catalogue
 
-1. Update `catalogue.csv` with new items
-2. Set `INDEX_VERSION` to a new version (e.g., `1.0.1` or `1.1.0`)
+1. Use A new catalogue.csv or update `catalogue.csv` with new items
+2. Set `INDEX_VERSION` to a new version
 3. Build artifacts:
    ```bash
    python scripts/build_index.py \
@@ -87,7 +87,7 @@ Artifacts are stored in `artifacts/`:
      --output artifacts \
      --index-version 1.0.1
    ```
-4. Fit calibration (optional but recommended):
+4. Fit calibration :
    ```bash
    python scripts/fit_calibration.py \
      --queries queries.csv \
@@ -128,8 +128,6 @@ docker build \
   --build-arg MODEL_NAME=sentence-transformers/new-model-name \
   -t nlp-semantic-matcher .
 ```
-
-Artifacts are stored in versioned directories: `artifacts/v1.0.0/`, `artifacts/v1.0.1/`, etc.
 
 ## Documentation
 
