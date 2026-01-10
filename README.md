@@ -1,5 +1,5 @@
 # Project 2: NLP Semantic Matching | MLOPS Project 2026
-Created By : Safwen Gharbi | CI3
+Created By : Safwen Gharbi | CI3, 
 This project builds a hybrid semantic + lexical matcher for equipment designations. It
 creates a FAISS index for embeddings, a BM25 lexical fallback, and exposes a FastAPI
 endpoint for top-k matches with confidence
